@@ -1527,3 +1527,25 @@ comment: |-
 A3FXp-b-jAHh_S_zS7JaNImd78gzSaIIR5y5z-NuByy3Qw3ArJmTPizDiEomVKGlECThlcfcEC7KBKLx9GubCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:13:05.181391+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: smallvec
+  version: 1.7.0
+  revision: 58edc0e53876c35d160acf99a60de8a564eeec2b
+  digest: zdYDxEop_K4h6OfiOLcs1MT3UmFEVC8nhQfY2ql4KP8
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+CPvx8RZy6HR8rNpGielY7K4_v43_xxFx19FU5y2Xorhf7Vhi3Ku1r1GEKvfTQ2Xmji8ns4wlU_Fmvh_IyxiPDg
+----- END CREV PROOF -----
+
