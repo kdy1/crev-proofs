@@ -3187,3 +3187,27 @@ comment: |-
 src9F4DDIIejs_qe_GF8JZ-k0YtxVHfSlk9n3WRn9vKXTC1mBmDO2rT19H_6ED45_n-EtjbUdnuPi_MBILOnDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T02:48:47.449611+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: phf_shared
+  version: 0.8.0
+  revision: 81c7cc5b48649108428671d3b8ad151f6fbdb359
+  digest: HfCT7gu9k11B8HWeJZFMY8Sli0a-8RO7EUV7IoQT5Qs
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+71IuS4OnS6xOpC86XNDQu16WbKRnsNVO1n83gZqv9fKWUmKNQ9ReLMqF-X_--a-3QQoZIq3X2egbEfeS1JB7Bw
+----- END CREV PROOF -----
+
