@@ -678,3 +678,25 @@ review:
 0Dunc4bj8P-Gh47mXKxe2tlg5l5Pf11ditaHqfSEg-kuj33LwQeYP7qcWi8tBE6b2UCabEwhPpGtXcSIk2NoDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T19:54:48.577797+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ipnet
+  version: 2.3.1
+  revision: 7fd6856b0821ec9f3e8313328a01244beb28038d
+  digest: aYhr69NopJH6e0qFI60BNggUZkGep0VqcMDHfuahjfM
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+KPJZET7t3TtjENvxula4ee0-iDq_YEU4ScBkrh9_YebVNTw9xdTreN6BGPc7H74Go9WNMPnzZc0L3oKB-DCeCQ
+----- END CREV PROOF -----
+
