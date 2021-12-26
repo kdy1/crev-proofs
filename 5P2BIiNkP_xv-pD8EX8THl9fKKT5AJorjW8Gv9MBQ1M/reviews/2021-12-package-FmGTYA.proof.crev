@@ -2637,3 +2637,25 @@ comment: |-
 IUU9BwWSGpJI55a1aIfLcBAQmnnjgi6q5FJf2hQ7iPCfn2uF4hFLh8BDJvs8y86VFeINY9JzB-nd5VzL-nWpDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T22:59:50.938342+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ordered-float
+  version: 2.8.0
+  revision: 5cf18febbdf38dd3d88f3cff101285561a39f146
+  digest: 5arFDXKbfb7BerafCA-o-DiEJLeS-5rOmf_Iu6HfoIo
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+4k5zGXcA6bS4E2ym6SYEsCkK0o9bBaJW1ZGIWw_dVEv-vKr5B7As-8TnbZi1DFy2jkY1vxkUW6PwLXSCyGm6Dw
+----- END CREV PROOF -----
+
