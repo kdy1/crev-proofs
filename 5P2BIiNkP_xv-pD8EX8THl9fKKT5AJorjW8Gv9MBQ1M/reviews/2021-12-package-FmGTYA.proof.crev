@@ -2979,3 +2979,25 @@ comment: |-
 iuW8cNZ4OdbpkUBGMtX2FEYQi1SdzgFKgwF4MdWPTr75LyRhx1StabkT904nImWm-Tykrqju_Xs62GykbDUmDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:59:24.738143+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: napi-build
+  version: 1.2.1
+  revision: fa0fe874489f45b8d1ece8eb3e58f7d17b23ccd2
+  digest: dgpf3zWCPV-fDBGbcNiO4pjVIbHfStQzo9qTYRqXj1c
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+uFRZflmK5_wlN3u9Q3Dl7Y2AttFX5Zd8ChfFzvbAhNyHvJTx1xdBlsi8dfe6b6vDBUEmM3ZEgABa5nucyHUxCw
+----- END CREV PROOF -----
+
