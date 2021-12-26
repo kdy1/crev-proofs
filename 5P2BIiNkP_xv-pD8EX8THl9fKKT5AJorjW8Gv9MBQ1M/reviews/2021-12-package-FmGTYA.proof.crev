@@ -1920,3 +1920,24 @@ comment: |-
 vWSgooWjPQDI8AHP5kNGy8eE5Ex1nVQlp9fSSrmXo5sxW6eeeQChH0ZiiYoboAaD7CrgOD60cA7v74DSDSMZAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:35:43.803002+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: siphasher
+  version: 0.3.7
+  digest: D2E85AQHEoCVRQJaCblxhD2xIGMG1Djw7d2BsI8TUbI
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+_PHOX3bE0HAR7JzSJnkRZCOnj3jYuesU_NBH_8qveINURcWMSyfGDfanxyIYg4k2Y12IUIgl5qFcXiyvMtxJBQ
+----- END CREV PROOF -----
+
