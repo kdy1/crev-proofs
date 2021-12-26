@@ -2772,3 +2772,27 @@ review:
 4nplDFvw2mYIp_u-ory7UqpQomFFBQdtdkvuQ6Rj0G41NiQOtGbplCj1TaCE4bCVrR_Zu4yDlyVuMTVn5oh1Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:31:44.121983+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: nom
+  version: 5.1.2
+  revision: 7e16897f3862dc4187a794c58e54909458ff044a
+  digest: PUGW_Psc5WhqllY5LE_cBNW1VqFrXPJg9qzO8Le_8Ac
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Verified only build script, as this is used for a long time and by various people.
+----- SIGN CREV PROOF -----
+GePj66_u7Xbt4ZIjUtAWVZFaDL5t43jywQhI_ETbid-6Dzwxaxc_o7RnIpPU86aHioi-MRQ4nkdtWef507n9Aw
+----- END CREV PROOF -----
+
