@@ -1299,3 +1299,27 @@ review:
 2_VHRW4GymdHRdhAgwjQBBQLLIPcLkgprFQhnUckbSaBPV-j_qG2AZgTKmM7W2Sys48OP3Vdb-yPrnyUqTYTAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:00:44.678590+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: is-macro
+  version: 0.1.9
+  revision: 0cfaafcd4b6fe47cd79c246b0ced3ef5b7a4663a
+  digest: aAdTOesUfru3JfCPjisnj2t2zqzhvwgxKyLasLxhfgA
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I published this version manually and I remember the code.
+----- SIGN CREV PROOF -----
+oTvKBNAOivOHI4vB-_gREUepRmSMaV4xnO4eynDMzQ4uvHWgqCfWN5mU9-uKcA0f5xBXclx1YSl2CR1siUuGDQ
+----- END CREV PROOF -----
+
