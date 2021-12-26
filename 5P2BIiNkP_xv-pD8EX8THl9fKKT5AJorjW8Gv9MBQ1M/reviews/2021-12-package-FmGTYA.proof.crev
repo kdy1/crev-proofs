@@ -963,3 +963,25 @@ review:
 NIFPEn0jEi1bWCZt0NwpzeLZUdb8gq0E__Kx7Zt3NowsGjOgfOsmSCFvSmOglmq0JOSZEp6C17DFFBMC0fxAAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:32:01.985960+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: slab
+  version: 0.4.5
+  revision: c512385b1a70100c8597f0f519390c80e90c9529
+  digest: RT4QzZmKL770R-Swxq5dNgspC6NMREXTcSM7n7eEIUM
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+DYmBu67WocrxUYsTfrnC_Zgg0MQkA_hTjnM7zRgUpGZEMneocf9Oe9ipt90Tjn8pK6Xu-GeRHi860_smZ2bnAA
+----- END CREV PROOF -----
+
