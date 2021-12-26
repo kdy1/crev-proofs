@@ -1732,3 +1732,27 @@ comment: |-
 oVY1Evso60rGEDA6R6siciISb6zwhaXxPVPAYMgWcIL-jr4fXEqyUthJpcwOVMMWbDFsmEnhQcXtN8jME137Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:22:49.521488+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: petgraph
+  version: 0.5.1
+  revision: 397b9fce8e5cf6befd142593737da22160ad447f
+  digest: xM_gGDAxjasKBfC8W_lwtzB004yOZR_Fe3s6lRgw9G4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped as widely used
+----- SIGN CREV PROOF -----
+Pf_nLKHqvRdGvw92J201GRTw3nXks2LP5kl0YI5bwOaySEYwBkKpxPPMjNgXQiMoEEizl6RdTQiTzsmPFFfHDA
+----- END CREV PROOF -----
+
