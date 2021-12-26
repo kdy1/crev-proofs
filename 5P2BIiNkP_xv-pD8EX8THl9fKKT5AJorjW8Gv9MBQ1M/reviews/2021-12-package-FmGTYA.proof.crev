@@ -876,3 +876,25 @@ review:
 A1qwrgFVptuQr6gQfkGFf2SNf1ElG1CJYdHpaAPpKe5IbR43VC3u7iRKqRky86WvWi_HswANWQ9SxJ2SLcuwCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:20:30.340121+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: once_cell
+  version: 1.9.0
+  revision: 44852cc72dbfbf57c5477a907ec0ab36527bc36b
+  digest: Zpr1ZDppilmXpIry-Yea8X3VfoAsH7daSAFG8Ep_32E
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+9WHA3_QARFhodcm6Fx9RfBweGNzKJ7h2iVzPZ07222c6kpKBAjjQwE47y3XMymdzm2VR8MyThF75AIrQTlSnCA
+----- END CREV PROOF -----
+
