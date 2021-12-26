@@ -3163,3 +3163,27 @@ comment: |-
 5h0peqf7m8WJOVU_eJpehHDfIUyGKoRjyQGx-PdaJtRNz_VpcMZyk_l0vkSQZrXslcIh7hcw4_tY878AlKNkAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T02:47:56.296401+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num_cpus
+  version: 1.13.1
+  revision: 5f1b03332000b4c4274b5bd35fac516049ff1c6b
+  digest: E1K_iEqtljMqws0PtaGN9X8i6-1BetBSn3qTatSXcuM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+src9F4DDIIejs_qe_GF8JZ-k0YtxVHfSlk9n3WRn9vKXTC1mBmDO2rT19H_6ED45_n-EtjbUdnuPi_MBILOnDQ
+----- END CREV PROOF -----
+
