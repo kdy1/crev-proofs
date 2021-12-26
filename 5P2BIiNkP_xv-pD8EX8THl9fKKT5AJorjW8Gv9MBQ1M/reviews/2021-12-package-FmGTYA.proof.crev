@@ -1941,3 +1941,27 @@ review:
 _PHOX3bE0HAR7JzSJnkRZCOnj3jYuesU_NBH_8qveINURcWMSyfGDfanxyIYg4k2Y12IUIgl5qFcXiyvMtxJBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:38:36.651605+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: futures-task
+  version: 0.3.19
+  revision: 29a736f9edc2ba8abcf45ef037919c9df47dc754
+  digest: gXRtJlZN71mD8BbYYQw4DF7wTMZvzrCaIr7P_tYUTQ4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+Ox4W5TA9crhZW3fwQ3B70k9yM6LwysH7b6PCjWr6aDTtVyzI2V0CRgp-Pnax4nkKUtjobaBuD0A9kW6ozpf5CQ
+----- END CREV PROOF -----
+
