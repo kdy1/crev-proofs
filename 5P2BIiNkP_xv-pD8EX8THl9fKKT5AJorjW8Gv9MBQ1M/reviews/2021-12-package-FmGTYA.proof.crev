@@ -42,3 +42,25 @@ review:
 IbZ2laENw3E0D9eioVBXFu35U9GePros6Sz8aFISBAl_84vViE7DP7TFOhSI8FJRLyvC0f-NJE_4ZEOz5U0gDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T18:23:11.511712+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: swc_bundler
+  version: 0.93.0
+  revision: 25d26485fc374795fe42e29832249015237afc3d
+  digest: 49y3khY-hoT7P6dqvENzKFPSMRtcfsBfYSX1I2rIVrg
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+IyiS7Efi2eY_v4vyh5piHeKUKGdb-mDJzLKC21H_si8q2xW_BBdqtwFwiw38ldLjFmjJr6mn-jBFE7MXWmllCg
+----- END CREV PROOF -----
+
