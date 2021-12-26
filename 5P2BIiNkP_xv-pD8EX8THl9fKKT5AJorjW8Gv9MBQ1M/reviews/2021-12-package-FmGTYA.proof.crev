@@ -283,3 +283,25 @@ review:
 zeRthLCcVAw71e3TmYyXPXHJn3lXnKAZtJPB_N2KCObajJHrpZGI-URH1VtrU6WOSXKHXo6eX25iRvnX-eRJAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T18:59:38.637567+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: env_logger
+  version: 0.6.2
+  revision: b598a2c96ff04da967fa2a0f8af0de6683b50a01
+  digest: 31FRY6z1p4p9yE7KbxyLB4HHKsNgtKjXwPkndTs9Ykc
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+b4jnbemq44BRaz0DyMyOROCAgQHp5FfH8ACEUPKTXSPCK-iMghjk0RhMoUhMlce8EC_wk9Zn1DzV90CJPAwwCQ
+----- END CREV PROOF -----
+
