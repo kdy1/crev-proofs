@@ -3069,3 +3069,27 @@ review:
 iDblTOefH89SAAqlKACZ9q7pI75y3EisCdVwoTMdisnvYMJdT_8iYR9c94_vJ2_B26OBsqMPRJnU6QOGI0KNCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T00:06:43.054525+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde_derive
+  version: 1.0.132
+  revision: 77ae1c3bf7eb7c13cb464bfe37a1439190e8d63f
+  digest: dLV_X3sTOfRp8i-M2bkwk7vCR-eR_QBWVf1UL-xt_tk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+9pl0JoY_O9dIvySwsXhf8VS98iYPIYVULkvGCrmemlHDu8BULSBHIJ0WHUgKdkyyztLBgl8UbgBixdHOcl10AQ
+----- END CREV PROOF -----
+
