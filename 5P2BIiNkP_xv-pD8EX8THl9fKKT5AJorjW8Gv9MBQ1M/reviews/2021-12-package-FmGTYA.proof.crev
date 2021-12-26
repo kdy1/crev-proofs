@@ -700,3 +700,25 @@ review:
 KPJZET7t3TtjENvxula4ee0-iDq_YEU4ScBkrh9_YebVNTw9xdTreN6BGPc7H74Go9WNMPnzZc0L3oKB-DCeCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:04:49.482390+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: convert_case
+  version: 0.4.0
+  revision: 300d9eef9e8c970e15f324afbc3df8b6a4ebbf71
+  digest: wKSZs7BsHzgVzw_f2IIoBSwLsy7UN0y_XFQdKxNx6qU
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+yru1fGXAUPxkXl9B53zJJw3NLjmiIgMPR8w7Q3IJn0rUE-7IRGHdUrOQgEeXHVZOowgNU2lPKGaRkLCSh3ijAQ
+----- END CREV PROOF -----
+
