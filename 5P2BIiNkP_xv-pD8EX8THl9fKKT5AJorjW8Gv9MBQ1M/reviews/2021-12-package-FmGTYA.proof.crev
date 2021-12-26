@@ -2502,3 +2502,27 @@ comment: |-
 14x62zg_th9lsOOgd8UNRkhTaK9YzlaW6Sz6-IMGKAgX_Np45vDsf3lZ47KpQZjMKpgcdICK-Q9hjeGXRUDyDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T22:00:17.491352+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: backtrace
+  version: 0.3.63
+  revision: b02ed04a7e915659eea6fb1607df469b84a30638
+  digest: QciV47499MzLWO-FQkGOVGtMXh0_AGyjXvn4ep3JlU4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+lw4kLwv8j2Tz75WTQz5N62NqkqotpATuADOxwgiqXp25rwV_wS97JBFzNXATn2Xh36MnR59z1xJD9VdDL_4DDA
+----- END CREV PROOF -----
+
