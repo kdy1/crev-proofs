@@ -2727,3 +2727,27 @@ review:
 PZT9YNQ1qjdP_ybzgKP42Lh0Gi_yGW4prC2623YoKzK53nVfQmpQliBhwHkXbvy44HjyoPNdHVkmHPeAqIvOCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:26:21.339274+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bincode
+  version: 1.3.3
+  revision: c44b5e364e7084cdbabf9f94b63a3c7f32b8fb68
+  digest: qZz7qA5ug8R2Riy774xKprfyXjD4W13IzdQmudcWzqI
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+tvHQ10zoWbxkglvpcLfgMd05bKYAL1LcJxt3PAUHWOpd5AjcZ2p2_nAGjfh6zvMbLna5fEr3Cw9aZ1JgT1d3CA
+----- END CREV PROOF -----
+
