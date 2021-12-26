@@ -2818,3 +2818,25 @@ review:
 L7gSOSBCpyW7ZINMQhoJGA0ckgg3yBiQnPnq1VeCK-6a3k0rCkcfWHMb9tJ0ij1U9aNAh-4npeC9c0jgbiwUDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:34:28.616611+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lexical
+  version: 5.2.2
+  revision: e62d6fb895a0de0712ad182c0024a639ecbea24b
+  digest: AmHp2eIAl0yUQkaI_z95xErZpyhhjNrpAKBHb8npyeQ
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+bATZQ-67-IJvNahNvtVFvU0HsqHtd9MONE7FlgjMjseUP0_S3atSDdwq0HHU9RCUP1E3ZdwVioNzycdMPkQtAg
+----- END CREV PROOF -----
+
