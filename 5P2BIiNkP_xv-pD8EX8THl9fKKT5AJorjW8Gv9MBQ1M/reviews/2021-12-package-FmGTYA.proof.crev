@@ -1896,3 +1896,27 @@ comment: |-
 8VSpasmL8rlWqk4dod7lMyYXiCrfQZXahUh23YI26yA5zF2sTQ7h6hRVoSKmEY9VKItN63sHYnnwfWaGfGj6BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:34:12.421186+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: futures-channel
+  version: 0.3.19
+  revision: 29a736f9edc2ba8abcf45ef037919c9df47dc754
+  digest: Exx6SHuFxbLgxkvlBYNvtvzbwYJt9ONMBUD6k-v05xo
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+vWSgooWjPQDI8AHP5kNGy8eE5Ex1nVQlp9fSSrmXo5sxW6eeeQChH0ZiiYoboAaD7CrgOD60cA7v74DSDSMZAQ
+----- END CREV PROOF -----
+
