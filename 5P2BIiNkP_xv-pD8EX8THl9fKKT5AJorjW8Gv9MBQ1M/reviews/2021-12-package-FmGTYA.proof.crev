@@ -920,3 +920,25 @@ review:
 7BOhWGS1n4RRiwQR6ZkjtNc4t78XogtGFXyFi4okrSeqCD0LSr82fyiXfnJTJfZelQeHRPxkzh2eY1LabBrgAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:26:50.192723+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: normpath
+  version: 0.2.0
+  revision: 496d663abf7ca7c3b975283237f4aa9052f32a62
+  digest: 1IDmL4GR-sfJyZZX9tAJ5CE64z-ehmfPAOlMCVWQ7Iw
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+D9Xt4XyfSwQh5QgbyGhCeDoSsnEK59YE5TAiliDHM0uF5MxZwSN6rIWYt9nH1txJHmTvzdiQa_gxyjtNKFIIBA
+----- END CREV PROOF -----
+
