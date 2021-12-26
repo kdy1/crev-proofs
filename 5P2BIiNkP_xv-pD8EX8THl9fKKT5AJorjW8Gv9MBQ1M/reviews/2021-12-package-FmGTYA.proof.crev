@@ -2659,3 +2659,25 @@ review:
 4k5zGXcA6bS4E2ym6SYEsCkK0o9bBaJW1ZGIWw_dVEv-vKr5B7As-8TnbZi1DFy2jkY1vxkUW6PwLXSCyGm6Dw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:23:29.322229+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: sha-1
+  version: 0.9.8
+  revision: 308dcd7259f1268a5bd1558e5ef087ebfcd6af5e
+  digest: xK4gWuxbtasKliDD2TmpP7p-yp9tUDCn-GByHSBcRBA
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+EOmI0T1dMUM9S5MN-OVp7VOH_RE44KdPgWbQjnKHdsdu-uX9_f_vPa-2XF5ogajgQ6hWqmkI2KsKktbMmxNZCA
+----- END CREV PROOF -----
+
