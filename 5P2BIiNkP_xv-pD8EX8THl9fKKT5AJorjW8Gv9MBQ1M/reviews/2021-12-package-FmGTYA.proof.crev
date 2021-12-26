@@ -722,3 +722,25 @@ review:
 yru1fGXAUPxkXl9B53zJJw3NLjmiIgMPR8w7Q3IJn0rUE-7IRGHdUrOQgEeXHVZOowgNU2lPKGaRkLCSh3ijAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:06:05.357128+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pathdiff
+  version: 0.2.1
+  revision: 08fabb3b2864a19d1b870d0d1fe887abad351930
+  digest: iB-3sCwdfDthZmDCoZIE17-mCEf9iss-NvcIHwQ8RxI
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+9kUmF2NNUhkSnEBRkXK163qWIXZLLvIr36Z_PVDlBIqf0pij9_WjZHpAgtETJITp8Z5wFMONuIMOv78kvxnSBQ
+----- END CREV PROOF -----
+
