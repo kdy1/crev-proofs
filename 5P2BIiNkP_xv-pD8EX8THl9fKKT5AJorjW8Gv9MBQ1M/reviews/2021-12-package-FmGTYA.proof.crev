@@ -2198,3 +2198,25 @@ comment: |-
 oWqbK9xo_Drr2y53PcPu7K7JH4dckUaCuEv22Qd5x_AhApQvfJ_QH1UsNO_t4yMuapGHgsg8Regy-XB7e1v6CA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:46:48.485361+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ident_case
+  version: 1.0.1
+  revision: bf0d863e3006b40a0d923a81d7b2dd2db1136c2c
+  digest: 8A7eTD_sGSHjoOKq4j9nd8HLfmx6ihQhGdInBo3ZchM
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+JLqCxr262e3bMIe7omy6wRTLuhF7v209HOosm1kKSnIvwR05wp8m36ZvdstVgDXDBfUc13sYNMEz63CuqRmPAQ
+----- END CREV PROOF -----
+
