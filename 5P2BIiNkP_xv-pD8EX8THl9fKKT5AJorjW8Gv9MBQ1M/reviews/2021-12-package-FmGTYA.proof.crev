@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T18:22:10.536996+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: swc_atoms
+  version: 0.2.9
+  revision: 123c1f5d020d1c885bbde6db8551af654356c442
+  digest: HgVzhepuwIHH10ulJpRv-Nthmk1WJefe7pKk3-jBOuA
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+4xNzPaimPLMQrTJVX4HjSY-T-_v4I-BB6GdxKymxt9V_HAk2NU8_Pof_Jv3-FMB1Hi-adVQ_h65HtgeCNz1IAQ
+----- END CREV PROOF -----
+
