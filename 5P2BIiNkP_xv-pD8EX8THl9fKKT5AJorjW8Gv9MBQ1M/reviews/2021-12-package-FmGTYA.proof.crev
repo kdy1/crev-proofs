@@ -3093,3 +3093,27 @@ comment: |-
 9pl0JoY_O9dIvySwsXhf8VS98iYPIYVULkvGCrmemlHDu8BULSBHIJ0WHUgKdkyyztLBgl8UbgBixdHOcl10AQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T00:08:30.967137+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: memchr
+  version: 2.4.1
+  revision: 8e1da98fee06d66c13e66c330e3a3dd6ccf0e3a0
+  digest: D7bhKUg-pwZB4ayc0XB25UTc298VeGCiyuq7yo2kzRc
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+ufVUOqEmYkzkLYrUcapLPk8JXTmLfxDe-H7yY2lpCnpEE3nndNJ4-_4Mf5li6lP_aAlsseZqDdulqCC-AB1uCg
+----- END CREV PROOF -----
+
