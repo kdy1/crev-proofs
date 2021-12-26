@@ -239,3 +239,25 @@ review:
 zNFKbqL3HSqJYnsaOjpSowAFrT632Wi-jONHLcejtZJyBxk1VYLZUyQHoJTYi5zg4_HMHjBbX1Q-gl8TNjFZBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T18:56:41.715309+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: radix_fmt
+  version: 1.0.0
+  revision: 7117a111631f986338712ad4309d9404a287f006
+  digest: g0hoWqjUYXwK8raI6HGU5eQwJrG9Xh3M5MlI-CafDEY
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+uOwfnlnNb7DdMqlvsehtEE_5R_atWzjyjeONW28OgK-AdWOmM1r4vy_LFt2fj_z1vu6G6YFXGiYk8Ij2bvHMCw
+----- END CREV PROOF -----
+
