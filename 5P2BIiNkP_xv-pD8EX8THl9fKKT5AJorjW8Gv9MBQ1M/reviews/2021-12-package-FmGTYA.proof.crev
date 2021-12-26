@@ -3047,3 +3047,25 @@ review:
 MiSumT0c9KzTTUXidObs7x5lWCSn1OdQc2TQz0pU-2UCLDf1ZViEhmLOyk6est2l1vFYX02mkAIfgJN0qk6AAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T00:05:27.096868+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ntest_timeout
+  version: 0.7.3
+  revision: 2c65d03353f381840d336046f1738216f5b09dba
+  digest: UyPF52_FqQ4usDFJBe_70ojmDrpffID_NzyR3a-BuAQ
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+iDblTOefH89SAAqlKACZ9q7pI75y3EisCdVwoTMdisnvYMJdT_8iYR9c94_vJ2_B26OBsqMPRJnU6QOGI0KNCw
+----- END CREV PROOF -----
+
