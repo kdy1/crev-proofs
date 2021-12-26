@@ -1780,3 +1780,25 @@ comment: |-
 WjoTE16tT7U1J0Zs6BGmb7xEjtKxSImwS9CQqiAzgTE1kWk-PgtPcZL1H-RXOKvl2KvJtf4jkJoFseAEBAJOBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:25:13.124713+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: libloading
+  version: 0.7.2
+  revision: b706286d0f5627e22d15f7a8bc9be341fa26736a
+  digest: jahEB3EXRq_YCJK72m_icgR14s8dohwVqPRwEShLglU
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+6YZE86Zua0NvSzyANkZXInN0ruubNw9dC_ncKhRg7D8IgucnExhvxxyblG63fwbT6TUr3VwpSYtJkPLgO3nCAg
+----- END CREV PROOF -----
+
