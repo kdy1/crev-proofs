@@ -2681,3 +2681,27 @@ review:
 EOmI0T1dMUM9S5MN-OVp7VOH_RE44KdPgWbQjnKHdsdu-uX9_f_vPa-2XF5ogajgQ6hWqmkI2KsKktbMmxNZCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:24:12.091020+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: parking_lot_core
+  version: 0.8.0
+  revision: 8c154bedcb392b87feea9b29054f3f0cabcd6a28
+  digest: mpyiZ89nzEXyn3_M_OjY4cNo4g-ArZkFQC6SwfjSdPw
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+mvI1kA7I2q4aEMLQG3goys_A3RgeOE-_yMzaZDf942v95etnY3CYeGZQfdWcIBetJFgESy5vvUlf-TLItDmoBQ
+----- END CREV PROOF -----
+
