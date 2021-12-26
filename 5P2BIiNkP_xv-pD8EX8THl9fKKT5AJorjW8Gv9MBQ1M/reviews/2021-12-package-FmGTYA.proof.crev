@@ -2174,3 +2174,27 @@ comment: |-
 M4OhUTao8pNoHENiyW8p_GhWwHCAXhcJCHaAiOAM7NtqnaPB4CgrjoG3iOsulZf16UBEP0RqsJqfUgZlAyYxDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:45:48.577508+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: openssl-sys
+  version: 0.9.72
+  revision: 258f69cfceaa30b08fd27a20c4a2928bfc19df6f
+  digest: 92AFyeQjG80oD93T1tgVbQScQT2lkRVm87ThNlAMsqg
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+oWqbK9xo_Drr2y53PcPu7K7JH4dckUaCuEv22Qd5x_AhApQvfJ_QH1UsNO_t4yMuapGHgsg8Regy-XB7e1v6CA
+----- END CREV PROOF -----
+
