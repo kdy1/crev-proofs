@@ -2035,3 +2035,24 @@ comment: |-
 PS7I3SMOteTPn96JJtcfTzSJOdGkT34m-S1u78UESlheOgfBGtD_7n-hAPBuHyNGIJrhwnoYugmoGSVjUSk4AQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:41:54.916172+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: js-sys
+  version: 0.3.49
+  digest: qFlHTgM9tGTWbhTpPN1J1mP-GqNtdP07Hv9oPnaoZV0
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+NZDcYTIXe351oEa3fbb33ztRe5PWoqVagbdzY6G25kaBhxPmi2833mV2BC0umnOPwWr7yQtRrNTnmGcczM7_Bw
+----- END CREV PROOF -----
+
