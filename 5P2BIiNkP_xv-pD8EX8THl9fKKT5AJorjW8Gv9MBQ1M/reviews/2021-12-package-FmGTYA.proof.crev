@@ -3025,3 +3025,25 @@ comment: |-
 iDwVFioRAqqHkAzXuVxrKaLzubBqgCrH4vwmbIN8nR_3IV8DsVePO6EJgo8kLxZzQBVrQPEQRSDtKSwZYBY3Dg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T00:02:14.090292+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: phf_generator
+  version: 0.8.0
+  revision: 81c7cc5b48649108428671d3b8ad151f6fbdb359
+  digest: DKgEX_bFWXPEyns_noMSVw_FP2SgVMUF9xc9qLtc86E
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+MiSumT0c9KzTTUXidObs7x5lWCSn1OdQc2TQz0pU-2UCLDf1ZViEhmLOyk6est2l1vFYX02mkAIfgJN0qk6AAQ
+----- END CREV PROOF -----
+
