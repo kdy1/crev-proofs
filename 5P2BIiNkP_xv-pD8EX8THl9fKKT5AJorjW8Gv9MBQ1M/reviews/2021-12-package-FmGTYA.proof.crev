@@ -2547,3 +2547,25 @@ review:
 NYWGew3qa7ttLS9qJ2YUI0yDMD9z7qEK6hCb0olPN5lp2HWauO3btm2JzZ5Wn423cWkxN4wLbgEztNgEoYPfCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T22:53:58.034939+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ansi_term
+  version: 0.12.1
+  revision: ff7eba98d55ad609c7fcc8c7bb0859b37c7545cc
+  digest: 1umV6XK1JSkvnqlXw025v2gD7X3Yew15S5xabc_qDVg
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+JAauW1LDHZFTmp5eCF21m-_4D_7IwTcEdHkp7Bo93dr-6KRNtB4pOlRzjwkw-jYaqm5gbhPhwf4sgvPxYZTmBg
+----- END CREV PROOF -----
+
