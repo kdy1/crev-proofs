@@ -437,3 +437,25 @@ review:
 7nA5xXOyIwOxRUvFBoG2C4nT00gMIBYzi3kC_neEvnNcNxX0dv73sz6YfJ7eHm_TR8PHZ40JLN2Xmwb9bp1fBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T19:30:04.742137+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: walkdir
+  version: 2.3.2
+  revision: abf3a15887758e0af54ebca827c7b6f8b311cb45
+  digest: rd68IXLgazq62qgxZV8cUieXLxvzymIzuLbO2yiU-gQ
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+_svRe-gxOJEKwt8_Na2NAh9j1Y3BkXbYwblDOs6Ai0IeQMdr3At_dRV95GhOeW8oksn9aOXM_-925ZWdEGXIDw
+----- END CREV PROOF -----
+
