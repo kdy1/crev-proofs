@@ -2885,3 +2885,27 @@ review:
 UlvypPvf_x1u9FzI-mWr53IxMAfXtoBuErXpOwKM5YkmccGyXSbmMoYWI-BQsiDk52tHk_Iexn2JMfsdhb6pBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:43:48.015771+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: openssl
+  version: 0.10.38
+  revision: 5b1813fb15e4ceb77fbeb991143f302d242d32d5
+  digest: Rk3TSkCMB1WTeYeeY0vZBWmc79QB5rhF-ufGi8HMwwM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+dpmv8MYc-rbF-WdD0RbNXh55RwjqlU8tFYi2wLU4E8UiXqlw5BAEM0_I9KSqCDI6QFnUPI_0RWLtp01FFueWCg
+----- END CREV PROOF -----
+
