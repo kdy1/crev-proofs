@@ -2909,3 +2909,25 @@ comment: |-
 dpmv8MYc-rbF-WdD0RbNXh55RwjqlU8tFYi2wLU4E8UiXqlw5BAEM0_I9KSqCDI6QFnUPI_0RWLtp01FFueWCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:45:06.374554+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: phf_macros
+  version: 0.8.0
+  revision: 81c7cc5b48649108428671d3b8ad151f6fbdb359
+  digest: bzUYiTTzgy8h7ndMkxSaeUFYCd3V377CRPrk9t_-yVA
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+L1Hu2gFs6XIArMXShqNjptVwCzz8Gs7qkH5C0vfaFfW01adVGUj90il_3YCs38k3c5lOWZlm73KZBl8vuVWEBQ
+----- END CREV PROOF -----
+
