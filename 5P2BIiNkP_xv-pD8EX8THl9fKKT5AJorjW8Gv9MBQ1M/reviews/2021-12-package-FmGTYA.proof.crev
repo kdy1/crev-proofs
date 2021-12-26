@@ -1989,3 +1989,25 @@ comment: |-
 HIjF2e9RHFfWwRTaKnFGuIQ8M5YcN_On5aT8gaoQnBpgAgfwz8tP53tfYFH0wt1veWcQ1H7RWG5SFVkTf43wAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:40:06.090627+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: stable_deref_trait
+  version: 1.2.0
+  revision: 66f9d8a15b7209c45f58edee6c1b6bb497b7bd31
+  digest: nSByNb8Gm3mLQItFfk2LhBUfpeusoqcHbHxolGl6QoM
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+Zyk9cv2i21eb8_6gLNeM2EQq2EKHicdqz3BuqaS__47p15k3gmj6suj5R9ao8cw7s-A8G3zUMMAde7DiPVSaBA
+----- END CREV PROOF -----
+
