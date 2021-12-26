@@ -1094,3 +1094,25 @@ review:
 Z1hNQlBjfr5zZs2Vxhc2bTLcZdwJH2yw4a83affEuaF92XKSU7L3_eiyYvAM32kPZFVlpIaS2QfOSxx3NDroDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:54:21.441066+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: typed-arena
+  version: 2.0.1
+  revision: 8d0f94f052844e8064328d2e914a68010284df86
+  digest: 1M8hAstFo7_Tc6fmPrAR7z828EZkl0cLXI6500gc8uU
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+ZsgAJ5JSiWW89zbaIaceN-nVLo7fHAZZ5DOxz05LOp7lEMFLEsOOdIP9VnvVTxcg1oYYZPQOV2aTBo7l9j27Ag
+----- END CREV PROOF -----
+
