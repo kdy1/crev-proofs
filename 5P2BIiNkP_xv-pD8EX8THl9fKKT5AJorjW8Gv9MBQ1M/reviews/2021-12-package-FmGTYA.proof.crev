@@ -415,3 +415,25 @@ review:
 LQV-JscWQGOwnksFoXheegudZnlu1vg4S89ygp3VHUF8jH74_g6zuhbTzmGR2N90-ME2wZvlcrAgJ6l26VIxCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T19:25:38.189801+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tracing
+  version: 0.1.29
+  revision: d0ef14d3f58956879da8ac46578dad27237c1f5a
+  digest: 8OQWbmZ2GKt-CF9EMGPML_ffvU9Djpa9zgrvkdxjfNs
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+7nA5xXOyIwOxRUvFBoG2C4nT00gMIBYzi3kC_neEvnNcNxX0dv73sz6YfJ7eHm_TR8PHZ40JLN2Xmwb9bp1fBg
+----- END CREV PROOF -----
+
