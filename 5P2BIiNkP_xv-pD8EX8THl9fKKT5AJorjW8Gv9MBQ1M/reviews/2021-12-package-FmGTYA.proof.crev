@@ -547,3 +547,25 @@ review:
 Ir7HaPU8lCsg3lB1EewMk79oGwR-jAnYyKDGQKHX-keBaDDiGm92gq28Mj77Lw3DaUc0RiYhKnIei171S2WKAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T19:41:27.969054+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: retain_mut
+  version: 0.1.5
+  revision: 516705238f3d6d61463f40a4f090299056f14523
+  digest: ppfaBcF8w5gZpQlkSSf-2FCo18l1BRevoH3SWB-_1Eo
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+cB6OeaQ2eZzoCNaFgrlskCEVr4buIdTs8aPZkNiMRiJ_BE4aKR__sLS3_Bof6LBjtUdzjt2FhJc3_X_vWhTqCQ
+----- END CREV PROOF -----
+
