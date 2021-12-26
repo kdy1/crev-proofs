@@ -3001,3 +3001,27 @@ review:
 uFRZflmK5_wlN3u9Q3Dl7Y2AttFX5Zd8ChfFzvbAhNyHvJTx1xdBlsi8dfe6b6vDBUEmM3ZEgABa5nucyHUxCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T00:01:13.557502+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: encoding_rs
+  version: 0.8.30
+  revision: 5870de8f67a354daeb3649794e960c60339011f4
+  digest: dm6RONWE_2fBWAeZ_cU41pZl8Ud6cbW4ztOcA4ayK9Q
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+iDwVFioRAqqHkAzXuVxrKaLzubBqgCrH4vwmbIN8nR_3IV8DsVePO6EJgo8kLxZzQBVrQPEQRSDtKSwZYBY3Dg
+----- END CREV PROOF -----
+
