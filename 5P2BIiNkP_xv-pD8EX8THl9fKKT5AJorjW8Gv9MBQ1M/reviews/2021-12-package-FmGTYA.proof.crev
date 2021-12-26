@@ -832,3 +832,25 @@ review:
 XwhdbOSRZMlr2R3NuTTtzBzN3iXthWBrSFQdKsFKeevunPRhuqTNZ2CpKG7z4iMaP9CpD56_i8o9FegftwMRAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:16:23.004259+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: console_error_panic_hook
+  version: 0.1.7
+  revision: f998b08b76655c16b948fc329c26ba563e9b3384
+  digest: aglmNXcJ-Y022DCuQGUpWuZIGrVJk6S3psuez6b4-R0
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+lXwSBiLANAarWAKYphe8fn45D_Uav-Kla1k6SRdg_by6F8ECAi1Sv9-OuS5tQdLXa-Fi3t1aVoyFYe_X-F1uAQ
+----- END CREV PROOF -----
+
