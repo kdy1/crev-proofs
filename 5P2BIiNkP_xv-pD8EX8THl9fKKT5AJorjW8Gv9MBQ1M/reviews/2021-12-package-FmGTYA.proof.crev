@@ -327,3 +327,25 @@ review:
 7IM2q4Vkd7aRHBWIHHaR6BxPB81OpqcKGUNOGNdNbzjAniPdVGH58ZQDlWjmyMCAP2EnTpx60gi3hpgvjeDiAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T19:16:09.622875+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: paw-raw
+  version: 1.0.0
+  revision: ab39c6d436b0ea8aac69102084174f331d5c5bb5
+  digest: z1p6Va7WYYYyLubj_C7vwcjbwpIzaPiD_8g2KfdtsAM
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+CyJkMlENfgYlRFvHNzxevnw0OsybAD3kita0UzvhzGFZ5-AFGjwGbl-F_t1bkl2FkHtj_VSiQfTrncY6h1ZUAw
+----- END CREV PROOF -----
+
