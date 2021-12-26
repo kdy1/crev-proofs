@@ -810,3 +810,25 @@ review:
 l-7J8pxnHpsw48SeMCwllwtCCM0i5jaEKwwTsZa05r0KGnJz90pubi6ubH1PCb9OKIjMVDZv8Tvc85A6kkR-Bg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:11:07.244185+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: path-clean
+  version: 0.1.0
+  revision: cba7a383b50eee4b7b56cb4d0dd8196496fed54f
+  digest: fMKmw5xC5FrhLgJgcpoNtGhsPTroRVcUPypqTFwGjhk
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+XwhdbOSRZMlr2R3NuTTtzBzN3iXthWBrSFQdKsFKeevunPRhuqTNZ2CpKG7z4iMaP9CpD56_i8o9FegftwMRAg
+----- END CREV PROOF -----
+
