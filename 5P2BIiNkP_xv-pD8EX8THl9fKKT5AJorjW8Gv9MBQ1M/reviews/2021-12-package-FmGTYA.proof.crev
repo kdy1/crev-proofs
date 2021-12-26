@@ -1435,3 +1435,25 @@ review:
 -yxwaD8WarUUcT6VR5JZp10QfjF3QIfcHrMVt2esHhk_cehHYPoXivhJ8osXUNXYq2DwpSwnemVKF4WLpUX9Bw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:10:10.159781+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pmutil
+  version: 0.5.3
+  revision: 1049a5aea97cbcd9d540e454a2fd54c0eb729ee5
+  digest: FbgD_65JLpFNHTgpmqx-tMXegMzwNmgSHCpZnf4IE_s
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+5gnBIgAIIZ6j4_Fp12LGEdw73ECUuDjBlaNeEbQahIePuGBzLTFcweZqghOUQ3mcm4yv7822MDNeAxdsNBqTDA
+----- END CREV PROOF -----
+
