@@ -2931,3 +2931,27 @@ review:
 L1Hu2gFs6XIArMXShqNjptVwCzz8Gs7qkH5C0vfaFfW01adVGUj90il_3YCs38k3c5lOWZlm73KZBl8vuVWEBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T23:46:38.193777+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tokio-util
+  version: 0.6.9
+  revision: d1a400912e82505c18c6c0c1f05cda06f334e201
+  digest: oekY6wOwpySlBID-4B6UwmtwdGHGnmABIZCr32EMPzM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+JfpArNfnJA3Y5tdiXLSVppyn-RIzWKcitMRlqHLC2fcJOHRPHo1fS7aVbpj24j5Tk9nZFeact6OPjgA_QLp1Cg
+----- END CREV PROOF -----
+
