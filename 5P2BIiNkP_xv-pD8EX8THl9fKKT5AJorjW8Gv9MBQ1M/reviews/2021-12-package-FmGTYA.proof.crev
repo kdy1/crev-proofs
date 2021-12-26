@@ -2220,3 +2220,27 @@ review:
 JLqCxr262e3bMIe7omy6wRTLuhF7v209HOosm1kKSnIvwR05wp8m36ZvdstVgDXDBfUc13sYNMEz63CuqRmPAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T21:47:11.576698+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: chrono
+  version: 0.4.19
+  revision: 4eeedcfcc409f19d965f477d767d05f3418c4df1
+  digest: uHFxvxtlamxucoF8NmA-SOUb2cdannzya8bXKPUw6Jk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+CPsGHwq7H6slOfiekunBda8laeZPXSVJJJdrtaktQ-1SEfnJupYSD22og28mue39EYyJV_bo2ovbGgcFa-7mCw
+----- END CREV PROOF -----
+
