@@ -503,3 +503,25 @@ review:
 kyZ8GUAgMCI6bmldpGd1jjuvOla1OV_NRv7Q6fP_sBZFXd8Qlzum_D4hkVcdr1OtNRM4jlffG2FwV_ImSu95AA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T19:34:34.791952+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: fnv
+  version: 1.0.7
+  revision: 4b4784ebfd3332dc61f0640764d6f1140e03a9ab
+  digest: zwIq6L987JORpY7sKIs9-cy-JSgFIiQXkccFGzvKZyM
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+hKylJmaM9dJgnxaHNqM6zUJlnNmjE5iCKz0ikWNdFEac_XeE1-DmWB1saEvIyZp9VnsicaF3dQxGA_5-SnFbBw
+----- END CREV PROOF -----
+
