@@ -1072,3 +1072,25 @@ review:
 3-41fOV6NwF_OpAL9BKGHNoecR3QJtvUeJPa-liXpAnjZmFdsPG5oPCHdjl050-ohdwYo2Krmaoy0mcayEsRBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:53:25.469362+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lru
+  version: 0.7.1
+  revision: 6fbecc23dff27ace041331745e9aab8739a2c2c7
+  digest: 847XNAmAZlHxDIZfF7RiLxM2Tbp4AIbKsPf41veTw3A
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+Z1hNQlBjfr5zZs2Vxhc2bTLcZdwJH2yw4a83affEuaF92XKSU7L3_eiyYvAM32kPZFVlpIaS2QfOSxx3NDroDA
+----- END CREV PROOF -----
+
