@@ -1116,3 +1116,25 @@ review:
 ZsgAJ5JSiWW89zbaIaceN-nVLo7fHAZZ5DOxz05LOp7lEMFLEsOOdIP9VnvVTxcg1oYYZPQOV2aTBo7l9j27Ag
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-26T20:55:19.508606+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rayon
+  version: 1.5.1
+  revision: ebcb09b1dc53211c6b5abdf4dc5b40e4bcd0a965
+  digest: tLh1eevPQqjC96KE-dkh0fLiCuealV175QZBywVYIDc
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+JidrF40Guhncg_WaMd8EWeNLgFh1ezVPpGs6FchmOF8ktNEG4Oj0JlQdtUJgR0fHBtPf6ziXVFAmkrV_b-dlAQ
+----- END CREV PROOF -----
+
