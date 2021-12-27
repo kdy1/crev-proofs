@@ -3211,3 +3211,25 @@ comment: |-
 71IuS4OnS6xOpC86XNDQu16WbKRnsNVO1n83gZqv9fKWUmKNQ9ReLMqF-X_--a-3QQoZIq3X2egbEfeS1JB7Bw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-27T18:44:25.569948+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: same-file
+  version: 1.0.6
+  revision: 5799cd323b8eefd17a089c950dac113f66c89c9e
+  digest: Yf7qyYw3W3WoHK4t74epRoJkZehfhWh-Hh-R0LfB8UQ
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+sDHvZ12yzSEbiBb4dqJ5wpOmzaOY2nqU4MyXCejd8OO-p_0kZKfFUM7NtdiVfX3MD4BodH5amWqYZkEHHSMJAg
+----- END CREV PROOF -----
+
