@@ -3689,3 +3689,27 @@ review:
 fd7nM5YD7yG6rsRvLgzsM0ZbPS63weI9VCmlTq4pCnnRVPIcmvttvdaUp6q2xsD9mkPyt82-7PSfl-LdBjvpDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:38:27.331976+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: libc
+  version: 0.2.112
+  revision: 55c44a250d4cb39b659fb81d6d3778a0fee12fde
+  digest: dzj2cNqRBdaWYL24tRwNkA77qnaSoJTY7heq0KR-2kA
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+liz4QUxRjvrhmi3cds5TIS00OcyGgVaHOdBRE7U5YPo2GmHYCC57IgPmt4HaxRlfHDgixFQqphIG6EYUdaByBg
+----- END CREV PROOF -----
+
