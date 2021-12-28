@@ -15,3 +15,20 @@ trust: high
 1MA5i_kvo-kWlXGcWuy6UDCsyjHujPBkHdlDvKGzzmd73Y0zBweewBB_Iq9EpUIj70uYxZrjjvjN_hai2Ix_DQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-12-28T16:45:15.324296+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+pcF5AOYVaauaBMzs8B5xPUE_UanFaZxrp5S_U_OU5HrmxpS8GvlOOxjDSehxosflRYMk6hY9FyAIt_BHPSDuCw
+----- END CREV PROOF -----
+
