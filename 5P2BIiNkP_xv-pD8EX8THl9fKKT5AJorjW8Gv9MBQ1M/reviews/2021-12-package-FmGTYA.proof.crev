@@ -3531,3 +3531,27 @@ comment: |-
 VIfQKFaceLTZ5_ouCGaM5KMJwLeSeCxZMlbgbgAbxULZN_Dk1D-gmb9Ij4Udi2uDYhcHmd8_7iQpcahWcq-BDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:32:30.647298+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: structopt-derive
+  version: 0.4.18
+  revision: da1fff81aded1c239ffcbd0a27ccdc7f28f74ff2
+  digest: GvPzuLhX_D8XzP9k6nwcpe3cPj8wX-8xq2G_zmlSPz8
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+FAKddwdeNPLGBVdcaE1TTXDg5K2FQ7t1vx0CoiHxW7Ke7n29vVU2-0ZjMJXReHr8H4xb27cJN8k3Yjgs6pXXBw
+----- END CREV PROOF -----
+
