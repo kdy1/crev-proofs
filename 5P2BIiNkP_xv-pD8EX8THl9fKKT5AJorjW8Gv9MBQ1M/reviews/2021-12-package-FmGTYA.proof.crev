@@ -3233,3 +3233,27 @@ review:
 sDHvZ12yzSEbiBb4dqJ5wpOmzaOY2nqU4MyXCejd8OO-p_0kZKfFUM7NtdiVfX3MD4BodH5amWqYZkEHHSMJAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:12:23.616346+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: reqwest
+  version: 0.11.8
+  revision: d4986e55830984c6cc95461254de7d1ef61bcd3d
+  digest: Ysq-UXyKAmgO4UY2-KSt9EbxYVMmuuXLn2ctuJzwEyE
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+OtY1_VblkVskZUGMox7kQ_yS_eN-ieY56yxMhW9OVRcaklRkTbIwb3svRhvrzCJCSbKcfJTBAGaEA9kAk1_xAw
+----- END CREV PROOF -----
+
