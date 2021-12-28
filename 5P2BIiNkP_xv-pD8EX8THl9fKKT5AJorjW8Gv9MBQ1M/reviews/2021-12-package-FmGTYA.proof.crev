@@ -3577,3 +3577,25 @@ review:
 VY9sIgRvupexkOOXUdZllKTEyLqpHaX-fFs1CvCrG-SsdNTsf6qBUc9K124uRNYkVK3f01yuLxX5cSlFp4cKAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:34:26.888910+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cpufeatures
+  version: 0.2.1
+  revision: f85795bc0cfb2b7601a799e600b49b45215493cf
+  digest: mq4oPofiOHBKPhSOoJX3W_x2tT2BeJh5e-fOMvmFW7Q
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+7NqRF2jVSndfoSG1scqN0sLugHAsOYKsxxEhv82WjXDy1n8ZiYMb0aWnOnGZY9trapVktiXxs0Urh2cCyJ_XAQ
+----- END CREV PROOF -----
+
