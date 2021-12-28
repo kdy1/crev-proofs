@@ -3643,3 +3643,27 @@ review:
 kH6QJdJhVEx08ggjvLdFcoPETcrwoBxtqxRjiuPDVIIFF95SC38xA7Imy1djoputv4y80YdorX7huXBlX7n-Cg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:36:37.261800+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: toml
+  version: 0.5.8
+  revision: 94b319f5eeb80dbc7420246416a69d5bd0a9557d
+  digest: nGgADnuEoHCOHo_59iekmclE_UsIDQstPZgK9cohCgo
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+I1uKLY9-i9L05aW0yl4FaIei8UKifMIuw4ISY1uG5EjJUncsRJ7wqcUTdlYLj3NH9qY5rt1M13vT9VzrtQTqAg
+----- END CREV PROOF -----
+
