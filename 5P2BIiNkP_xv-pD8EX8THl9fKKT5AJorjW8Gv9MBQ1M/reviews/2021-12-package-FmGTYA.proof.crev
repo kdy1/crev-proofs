@@ -3257,3 +3257,25 @@ comment: |-
 OtY1_VblkVskZUGMox7kQ_yS_eN-ieY56yxMhW9OVRcaklRkTbIwb3svRhvrzCJCSbKcfJTBAGaEA9kAk1_xAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:14:36.147883+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: dashmap
+  version: 4.0.2
+  revision: 1a31f4f5989fa42f5faa80ae0537e214d55cb0e4
+  digest: 53mw7eEfNFMSE54IOg0zf0Gv2DL6ylbVuIS-suRRgp0
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+Jf1E5HB5HD7mCz9EWlNEvrcYHzDZsxTMu4ziTSgJQNMbrftXdz-oy-PakpwwUL7dws3RQyNffOMw1QV5FQbKBg
+----- END CREV PROOF -----
+
