@@ -3279,3 +3279,27 @@ review:
 Jf1E5HB5HD7mCz9EWlNEvrcYHzDZsxTMu4ziTSgJQNMbrftXdz-oy-PakpwwUL7dws3RQyNffOMw1QV5FQbKBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:17:36.679504+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: Inflector
+  version: 0.11.4
+  revision: a4a95eac75043f4bffb127c7c8ec886b5b106053
+  digest: 7qCUDwTLRovxVZX9CnrG-XLIAtxPHDtWqUB0mlX9mk8
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+pCB9Qe-5fiXvvBYJF3HiGshPdOzWaMU6SbSWcOFYLuqrVnMKU4nNLFIV5xIUpyqGyjqCm_-tCjLcx-A8S0d3BQ
+----- END CREV PROOF -----
+
