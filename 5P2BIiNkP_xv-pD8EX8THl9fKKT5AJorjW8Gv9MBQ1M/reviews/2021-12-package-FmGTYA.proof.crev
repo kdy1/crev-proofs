@@ -3392,3 +3392,27 @@ review:
 pFdLK4JNe-ItlXcuN3y2kFAyqsMRiNcgXnj7XC--HqtcX9qw4Uu4vw88pe0-rvnUKfB2izchMP21rZ1c7-HiDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:24:47.900540+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: byteorder
+  version: 1.4.3
+  revision: abffade8232229db557e0a30c395963071624b2b
+  digest: nJzmpMwc692Mm7HE-uUTfpl49o76x02-2zDAfix1BNo
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+_uWK0PXUNgKeCK-zmVM6bdVR7MvDM81k4WOUPNtun4zCPyLKYe5zEkz_8y-LASNYHCUYX-jjD1pVIyqUvHVHDQ
+----- END CREV PROOF -----
+
