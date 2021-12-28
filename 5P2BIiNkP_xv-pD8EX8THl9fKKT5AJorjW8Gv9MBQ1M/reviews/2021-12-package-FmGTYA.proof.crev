@@ -3783,3 +3783,25 @@ comment: |-
 GQBv8ciAvyCeAXLsHwxMYLBZgSZk-ixzhwb7FsgN1IHvC5rkURePqrO3i50JOYnitUnvi7XlvvXczaw_6lHaBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-28T16:59:36.547719+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tracing-log
+  version: 0.1.2
+  revision: a0201ba798b86739ba633d15d297ec233b905e4e
+  digest: Fi9wjhlKLltEY6KKzD3A8WzZnokxRovi6oowtggi3-0
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+-hsO_gfRSJCILkQaEvWrt8Im0kQpVBh-DnlUqhi9HsnFAjHNbn3C0vQWW9YlLBYP6rtcVEt2_bevbimYRoR1CA
+----- END CREV PROOF -----
+
