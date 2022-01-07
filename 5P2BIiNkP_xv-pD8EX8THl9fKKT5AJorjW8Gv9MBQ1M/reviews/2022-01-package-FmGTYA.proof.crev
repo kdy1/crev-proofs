@@ -2429,3 +2429,27 @@ comment: |-
 HFdPTXljc53djP8F45mhfza4D5naRzeexeBU7lFU039TtxsFI5iloVLVw1KDzwNxUGxM4j35-zTu9SxLuzjrDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:46:16.041111+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: paw-attributes
+  version: 1.0.2
+  revision: 7c5a136dd7ed2f83c3e1f9e27e30fc1028c06a78
+  digest: Em2ClwepUtKfc0KaiJCNazz4hNMWhpw5iRgAv37fH4E
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+B5dSTM943xAxe3r_NRkpAUveNbeCYITRvTzjlf3Gd8tJBUx8KdWvVW0RMUBgPcQFWwM8G8wh4kHVjR6YGeolBQ
+----- END CREV PROOF -----
+
