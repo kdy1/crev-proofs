@@ -3145,3 +3145,27 @@ comment: |-
 ql2nHFdqpeKcrjiU2wtPhS0qG-buiPBEAIC4bwEPwEMjisPTzFUsE7pciHxIZL0YjCFCirQ14Fhrg9--eP8TDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:49:16.063771+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: schannel
+  version: 0.1.19
+  revision: 1d612388d5264577662a3dd89ecb04cd05db6fef
+  digest: yjtDS0v7GS7ERXqVBzox9lMI-plnsOdKbPd5l3a2tX8
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+pv_LFo8TcTe_NILVE1UYpxfuEnsFCPJ1M_vqgIQvJxR7djTWfML8Ff0J2S7kChcfaeoMHywpcNwruuWR_ywgDA
+----- END CREV PROOF -----
+
