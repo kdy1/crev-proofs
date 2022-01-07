@@ -3025,3 +3025,27 @@ comment: |-
 tnNbDIhAlBGeUQPlBDASAa7xPwS9c1IJ8YLRXduNy6JVyABWbrAC9HtVF9OtGsr1F8ZijMlez0eOZFm6hCwgAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:48:49.140511+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: miow
+  version: 0.3.7
+  revision: a84a1c0a3e96d48f89d3468f86d8dafc06b56268
+  digest: FKTsXcgJmNtUZ0D7FM86y2AUKihhTmiCggekeb2CEnM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+JlsrzoodQxGJPknzejV4Ig20CHeHKfgM2c9_9_kZqwzjCeBa6gDPFsEOIy7QhRc2EXITVjYZ0GpjKjYJZwabAw
+----- END CREV PROOF -----
+
