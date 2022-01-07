@@ -1735,3 +1735,27 @@ comment: |-
 hdeGpkw4b01PElDvBcvY3NHER2KayOMmnceoQdUsIuICoeHbs6hzwanXk_oFJGhX9tYmLmEiO35PZnoxujyBAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:43:32.713516+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: crossbeam-epoch
+  version: 0.9.5
+  revision: 6d4cdd4daf9a897deef6cde9569f2fbf12c29bc5
+  digest: 9DY7voYuBqgdP18FmLL05gKUI5pOdMLM6p5b4c0Un74
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+v1Fp_8VqSt6DjlwUn9zq21vIwBQ7xOG90D-GT74ZG0m8qeWp4szLgyISePpweoYPlk9atA-6qkIn8dpOs7xlAQ
+----- END CREV PROOF -----
+
