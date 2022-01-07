@@ -417,3 +417,27 @@ comment: |-
 1tCeRQRD-1jLLRAr2tlLVsHUf5IVrelWuMXH1pbPFknTzXFXWTqONQaxzceZF-6LqLAAio6RZlysLhckgAKQAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:34:03.501135+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: fallible-iterator
+  version: 0.2.0
+  revision: 03b701c04b37fcd1ab1045c4623542606abf378b
+  digest: TmBY8pxaaTC5lEF2BA2ikfk-2val6XTStshu4rIFZ4o
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+8B0ZtnZJ9FqhH72ASeE8lcd0OxRJ6YuCSXO32MIiNfACBwU69TAggn8OMV8NL-wnFjCeSH2MhrCla0jZu7aPBg
+----- END CREV PROOF -----
+
