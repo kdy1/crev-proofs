@@ -513,3 +513,27 @@ comment: |-
 78yZAf8IfSjH49k5Ut-SqsOhQl_yD47hiCdw1rdGO7cS9CPj35NY_LTtz6hvgVeHDZp_L2bT60IVoF0ggHPzBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:34:48.714311+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lock_api
+  version: 0.4.5
+  revision: 18001b819c1539c06c176c671bbe54e70b5c3d69
+  digest: 5CX4W-HC3VvBWLlGLRdRlJOyrGxqnG_Y3d1iI1hRDC4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+LNNI2_OnRvDpoa27t0y7jxCHjNpiblJLPkgfMgOja2RL9aJTKreqyRnmCMUrxCwOvyHBrxkMN9IPAb9wb4hDAQ
+----- END CREV PROOF -----
+
