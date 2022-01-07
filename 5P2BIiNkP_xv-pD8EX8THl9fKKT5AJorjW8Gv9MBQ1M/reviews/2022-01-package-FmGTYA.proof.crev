@@ -3577,3 +3577,27 @@ comment: |-
 8tC5SYbfdb2MpH5pDzicA-Y7J3MbSFLlEXfIKw57qx9zuSWxmRdQTToZrhoB6Zl7Zd51BSrArTgRV9fYqWNdCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:59:44.972839+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: native-tls
+  version: 0.2.8
+  revision: 82ae9a35f92b3e86f44ee5c7245aa991eb8e63d2
+  digest: RTRWcuec30oUuEWif_p7Zy_TVz7qWJCE94q5xC4cLF0
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  SKipped
+----- SIGN CREV PROOF -----
+6b90tMLFwT-KwT4LuWcpKlpss6g4VShX8ixRZbRuVi-djQlMCDo6qdOqEJlvL5YO57mEzGnTAjiw-ykdb_weCQ
+----- END CREV PROOF -----
+
