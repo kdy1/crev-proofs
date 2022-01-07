@@ -3505,3 +3505,27 @@ comment: |-
 I3BfME9bzwwWBZHOsTOyecAOeqHwMcYLsXVbbHRc7Q1cQLZDlP9F0FsjRRTFBlEtPAyTV_Jg3S5pnexhB70GCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:58:14.456488+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tokio-native-tls
+  version: 0.3.0
+  revision: 794659740dcc399f79058c4eba325ffd97474c7b
+  digest: B29kpZoqe_krgDF4LT-Rwa5AsKjGG0On6LBTa6c8Nec
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+FVnDvhVl6NYfUoLZfCk7ZxSIG-Ufyb1gwUAs6Ay_pFQ_VNeCruYjbcUYq0zJiRRk_-x1iRVRJggafxk_kqZNCg
+----- END CREV PROOF -----
+
