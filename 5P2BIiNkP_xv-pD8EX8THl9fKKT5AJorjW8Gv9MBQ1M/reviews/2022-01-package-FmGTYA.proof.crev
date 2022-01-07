@@ -345,3 +345,27 @@ review:
 l9h7NpPhqr5NjFgf20kOKjIkcki5WbfrDiWJ4IHVDd77CoCVjUJgsXRn2p6gBnhml8UqCoV2MEBXi1LwwNoKDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:33:32.431098+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: constant_time_eq
+  version: 0.1.5
+  revision: 8db4b026a1936dd0544587546275ce73fff9effa
+  digest: rYsbptk2SJdqmgOWbhPUgeDLuB6k6qyzyen0Xi48VAk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+MFvs9dG08UewYJ7dThMqaRmsrzR8lKMq_ouEHSO1chRoPMyu9Uz4sdW_nw0lzneMfiQkgGRJw_1J7lRNTQ7uAw
+----- END CREV PROOF -----
+
