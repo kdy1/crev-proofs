@@ -1087,3 +1087,27 @@ comment: |-
 JrcZi2DN6powguUw2QSETNXidsKvCj0nl0G7dCiRlnBe0jXkBlghb3Cg614xl9es4RH8QiLTI172KtpIjcOcAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:39:08.721205+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bumpalo
+  version: 3.9.1
+  revision: 9f4a9f08b7f4d20307c1155c72baee81475862d2
+  digest: MK-fbR2f7rS7_bnvqZ5tjCxVjKZUNv8luRqn8pv9sjk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+YpMnu08rU70bfz-tkj31vi5VWnajw_RBVD2l90wAOnG4OzhAU4Pp1OYR3xniYoaRdns5DdQR-cpkUktsbVatBg
+----- END CREV PROOF -----
+
