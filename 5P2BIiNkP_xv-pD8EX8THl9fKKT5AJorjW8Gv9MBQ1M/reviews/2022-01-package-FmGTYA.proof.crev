@@ -776,3 +776,26 @@ comment: |-
 J6M4pYaTG3FoSNtmH33ZvtE_ZytdlYv8Dq11g4o6rsfkeSLtwFUs54O2CVSxwmboj0bOkDVgdCOvbpxW46RpDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:37:08.818351+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: sharded-slab
+  version: 0.1.4
+  digest: sXFEblCmRTyuNnxp0waVeNdAOGbXxlTNxGoCrerOqeQ
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+z1YBrxOI16OoAwhs9zcfW4T8ABX5B2TSzlo0RWeGPOBEMLVtHQASTI7Edvl9MWwPJRfWbns1LUPWj1KYS9CZDg
+----- END CREV PROOF -----
+
