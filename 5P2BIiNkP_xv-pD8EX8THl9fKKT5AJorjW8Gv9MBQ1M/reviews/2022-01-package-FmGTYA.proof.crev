@@ -3816,3 +3816,27 @@ comment: |-
 6gxcu8--HrUj6ckJkehx5A4r8HHGapddvgwY8iCbsK3mL0K-YHPz4VJ0xa_X4l4mv1uUMVlnG1RQEU_MjkOQDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T17:03:31.889177+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: hyper-tls
+  version: 0.5.0
+  revision: 89b5768f2a7167854cb44a9f3ae9c34c43639220
+  digest: EhJNizLvesvgwuDkSIxiZrP8ydUAbHZBzDfMx9MIcXk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+rJYl6LdelIbpw_r2k7bD6ea9nKGjRm9qWFytWwEGyItdBD_TC2u9w_haF2_jLYSmTmANJjJaLAcE_bl86yZJAg
+----- END CREV PROOF -----
+
