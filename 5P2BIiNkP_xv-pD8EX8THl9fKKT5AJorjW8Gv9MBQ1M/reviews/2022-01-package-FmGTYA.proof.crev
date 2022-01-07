@@ -752,3 +752,27 @@ comment: |-
 kVKx4B1ExW_OEFg_B4C6fK4VggT7sqjpZGfOy3uYO2YDqQWDjltD2QrTGMGM8xh_0_8r6EHZMGKZTYgfFo4JCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:36:58.064977+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: fixedbitset
+  version: 0.2.0
+  revision: 18015365c5a68f1e0736dfcb0040a3c095430da3
+  digest: jCCYtNXueuRsZWWXQl0rpdxYLzV-rRkKdRVYVWD0ko4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+J6M4pYaTG3FoSNtmH33ZvtE_ZytdlYv8Dq11g4o6rsfkeSLtwFUs54O2CVSxwmboj0bOkDVgdCOvbpxW46RpDA
+----- END CREV PROOF -----
+
