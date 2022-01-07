@@ -2167,3 +2167,27 @@ comment: |-
 ArgfU1jhde1BWXpQLMMKDnIj_SDPz9V_vLazPq2gcvO-0AdxUkMVDwR2p_gGcie0Ns897beIGdpjdRuYI6KIAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:17.196840+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: windows_i686_gnu
+  version: 0.29.0
+  revision: b22d5f8f23c42cad9cd12a6ca376889463e4c27e
+  digest: yq4XHBoPVktq1YpypBCJbBkhwo63EfmFHkgx_rxMvRk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+f3hL3Js-AeZf90sRSD-GQRTMM9eHFvJWEfMfqFqzr8XEFbntyPVmHWlhbUtbZYRTab5CzY8jVqevXioCF4HSAQ
+----- END CREV PROOF -----
+
