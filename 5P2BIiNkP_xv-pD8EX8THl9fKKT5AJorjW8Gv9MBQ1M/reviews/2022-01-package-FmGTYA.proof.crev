@@ -1783,3 +1783,27 @@ comment: |-
 emJ3UNhrmuosEJ-X__UnczOzAIHrIefbaWGnU6GFQuH35g0UtcWKZ2kX9xI_-Vv-4SHO8I_bUAmVGcstOQB0BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:43:43.445856+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: miniz_oxide
+  version: 0.4.4
+  revision: 3db0b43dcb320753d37a2693854f5b0af23e1a36
+  digest: VJZDWP1tGFWKXboQ_nvMX0RXe8hGQpQGDOCQvN87B2o
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+wLgZ5N5ciBuLjVu55K24Py0Iqk61tNQL9FUsrw2VFgq2rJ-I_kGnN7b50SiY1YLVL4SNaVnAHgppiTk-jVQ2Dg
+----- END CREV PROOF -----
+
