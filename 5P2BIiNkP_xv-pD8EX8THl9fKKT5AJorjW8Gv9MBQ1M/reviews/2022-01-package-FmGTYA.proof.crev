@@ -1519,3 +1519,27 @@ comment: |-
 wT6CRgDjdOqG1-rhV3rJnM3xtyMHZq_hfUGrAlZBWm3eT1Ehw4xKcIL9035TsyAg1GWD2hjbYIzPWbSdrRIVCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:42:38.193799+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: regalloc
+  version: 0.0.31
+  revision: 45632221b5392b8b3f90e518d42e87f82a5d4313
+  digest: x3o7OBmFu3t0h9lUwGsd3uIchUCwBsRALnnUhYHXBfk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+QnEeIO7-1-PRk1et_Pg9tBlTsj5LNxkREzOJNhgwieOuJczxIni52Gm1X0BKyrAh04RqnlVPoLTj_ygMI3yWBQ
+----- END CREV PROOF -----
+
