@@ -991,3 +991,27 @@ comment: |-
 zrOE-qqVzKO35Xhk0ij3xH0t0DphUQTW4mxkP2aVm4Gzm-o4M7Iy40d1Ilooq9sIhqT3X-IVhygkhdRJL_DmAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:38:35.235917+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tiny-keccak
+  version: 2.0.2
+  revision: f034411460d0012925052017c1658b3ce9cda532
+  digest: fw9TjVv8F-RECOHSYGoG0Nfa0Mg-sjlUKCtS0l4V-oc
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+WyWTB2kUEW5Z2qbWdOGRbFuwWuF1ceOGiUHjPDItSwwHZqfK23bchZUMzUf3DVoFlxuHHQ-gCaHwxKyPT5yrDw
+----- END CREV PROOF -----
+
