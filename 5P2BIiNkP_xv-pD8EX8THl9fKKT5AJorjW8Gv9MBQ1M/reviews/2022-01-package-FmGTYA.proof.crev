@@ -2215,3 +2215,27 @@ comment: |-
 UVHA5RYJ22aTLWDGxk_XdpFtEWy0_N7BwSTFTkWtqZa0WczSEDozoCG_3JKHA_0D0Zv_o1CHoLlVQqM8qJmGDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:28.308018+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lexical-core
+  version: 0.7.6
+  revision: 1a5687db70268ab72f19b67cda83c1197a7f5a25
+  digest: SXdtWwUn5e9m1-x4vKXjrCSV1j79ey2T1gx9kp3x3go
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+NM_3xqo_C6fALCUj2zgUZo5XgkdtA9cZ-I7jN6RTFtyhFvweAZWknz1nmb7u_Un9qOkpsBaPZ3z3IcxPqpBdDg
+----- END CREV PROOF -----
+
