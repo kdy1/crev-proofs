@@ -1039,3 +1039,27 @@ comment: |-
 hayxvBP-kQW9UiwTSDdw6IiBlUpKClY2er0kD1Ad9DH9zI_yCsw-lSCJmesFnymbQjNyZYueswvaaaizRzWVDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:38:51.029082+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasmparser
+  version: 0.78.2
+  revision: 41fac3001992426abb074ef9d2c2f0769f0d3973
+  digest: YQuaa9BjUv7hg_dQlJRP87-AF_wMNfUSwrIxnZUdGJU
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+loxHbfpJfRLG3jMh8ZLJ2W6hWLcAn99aIT3MbihYZUiqU9pLWKyW0AXUSeqrAsBQyG1X3K_KYqydVGR2aUybBg
+----- END CREV PROOF -----
+
