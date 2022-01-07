@@ -3049,3 +3049,27 @@ comment: |-
 JlsrzoodQxGJPknzejV4Ig20CHeHKfgM2c9_9_kZqwzjCeBa6gDPFsEOIy7QhRc2EXITVjYZ0GpjKjYJZwabAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:48:54.558614+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: winapi-util
+  version: 0.1.5
+  revision: 8f291c9da272b24699f31e22c521404255462642
+  digest: 2BZYn3Yel61iMzlt6saz8wxS4dBJohvwMsBzsf5CQsI
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+02LPlFA9oeeVoVCxo4f_5F3lqXSJg0sCjErBMD9UqzvDaWhDUAQUk7zmwk-z73Id6SgynNjoXBG0LhJ2N6X1DA
+----- END CREV PROOF -----
+
