@@ -2310,3 +2310,27 @@ comment: |-
 sQLV7qRVB7pPzINd9P2xV_oF5zz4IomGElqqzbXMc-KOLUDLbytOLhtzp7xIVmy88qmilqFfOH622Y-gf3lPBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:49.893238+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: thiserror-impl
+  version: 1.0.30
+  revision: 672e9525bbc2e5682c380d36974f34716b963591
+  digest: XRpLEHYF9HySxdVTF7wUXAQ-jJMNfrGy41VM_9DRBrg
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+qJde5yfWvBTaiDEfU2aofvbPZF0LPJEvmtd7a07F44hEKfb1LK_uQdfJSQXzMxLOhdeE2kSDRp5RsO0iCS6xDw
+----- END CREV PROOF -----
+
