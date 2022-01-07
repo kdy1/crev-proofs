@@ -3888,3 +3888,27 @@ comment: |-
 b350e0AtNqFrhoeTyfupM4xzdbY4qGYBHEOIjBL7rlcYCiQouwQaM40YJG-XgVe4T0-_ZGu39c07tDG9ZgFaAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T18:01:31.042723+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cranelift-frontend
+  version: 0.76.0
+  revision: 81f1dc944fc0f82db7e930ce47b4d1433786481f
+  digest: 13cNk3QzvVV6MUacrFzg4gQPa72kcuSo3RbA5te9jXM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+pAghmV8J1gexc-VIM_Lyj166ZC7CVfzmZHdvTS2_u7hXT39Ntvos-YZ5WE91uOA_BGsGwZ0QRr-0ptX6qIVIBA
+----- END CREV PROOF -----
+
