@@ -799,3 +799,27 @@ comment: |-
 z1YBrxOI16OoAwhs9zcfW4T8ABX5B2TSzlo0RWeGPOBEMLVtHQASTI7Edvl9MWwPJRfWbns1LUPWj1KYS9CZDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:37:21.156011+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-segmentation
+  version: 1.8.0
+  revision: 907d4d0b7e5c6f5e0f815c90a51d28b793d0c7a4
+  digest: RFLhqYjdpHfllkbGCTXxqvfbxYx1SS_wQHWIjtWV2DI
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+4XWsszJrSkF2FU5ljsqetTFvnc630aS0pesMNNpKBaDg8pKUbUVwJHzQK26Fi-taBtUlAiVFTDWIwawBykDDCw
+----- END CREV PROOF -----
+
