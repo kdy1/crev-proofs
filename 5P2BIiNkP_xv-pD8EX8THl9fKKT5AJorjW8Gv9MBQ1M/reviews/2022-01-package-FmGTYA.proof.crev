@@ -560,3 +560,27 @@ comment: |-
 gFnxKFZ4PqW51E-PBADBclK0L129OgaKjjFH3khlpbo4K-dB4NgS-vBEGESxlRfMO5I5i5DLmNjPhTZq3L9_Ag
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:35:22.015176+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rustc-demangle
+  version: 0.1.21
+  revision: 2811a1ad6f7c8bead2ef3671e4fdc10de1553e96
+  digest: FtvDlEZnTq8F8-RELIygjW6ZajiFRDlLsxp6Y8r2NMI
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+4FAVlcCjTTteY7ICraR6cs0Ko1pnrKqjFlb7tJ6xFk7DJM781ZbLAxtiiTLfrUDi83bfyKC2qqcUebnQk7GyAw
+----- END CREV PROOF -----
+
