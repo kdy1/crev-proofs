@@ -1999,3 +1999,27 @@ comment: |-
 D2x_UhE6jxDkQDOMXnHwkAvQ73zbZy9JN9pGRmaiGdUUxlLO22TUodanhxJctDKBQ-CUyzA87yKm0lZHu8G2Ag
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:44:41.898312+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: core-foundation
+  version: 0.9.2
+  revision: 3841d2bb3aa76dec2ea6319e757603fb923b5a50
+  digest: jumy1J7-gAN_5sM2T5cjGe04Mm92O_Rh3ajpb9kLYWs
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+zT2DE9GldEXNSpwVDKzyIMWu1DpSnsMkJUpua-T41IJZPI5U3nMeg8mg22KtMa-W4S-tEXlOmj0RdR3j8YE7Bw
+----- END CREV PROOF -----
+
