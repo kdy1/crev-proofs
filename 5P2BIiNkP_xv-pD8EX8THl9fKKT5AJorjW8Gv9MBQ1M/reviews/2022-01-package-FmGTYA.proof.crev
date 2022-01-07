@@ -1615,3 +1615,27 @@ comment: |-
 sVByjiH1BMHo_G7qc20W5Xra20twoJ0cIu7rbYNXZ2F-I1Oe7hckjslWLEiodHAm6lrqU4TbRsRha8ha6zWnBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:43:07.794585+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: security-framework-sys
+  version: 2.4.2
+  revision: 6f06d832affc9e78894ffd2c9ffbc8d10ae88e72
+  digest: RZgvLFJs3YtAE_560DTTb8pjOZmJVKgnGhPbdMaWAoo
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+mBNRpz8rSJTougTR0yT7oRpFNoKv5N8hKTkA9fdrjOHqcV-2nUmAAD1xfjXor4YULsU5yTSKg-OB9CVJPcUtCg
+----- END CREV PROOF -----
+
