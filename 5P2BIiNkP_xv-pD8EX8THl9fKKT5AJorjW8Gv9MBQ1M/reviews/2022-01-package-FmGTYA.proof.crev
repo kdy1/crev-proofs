@@ -369,3 +369,27 @@ comment: |-
 MFvs9dG08UewYJ7dThMqaRmsrzR8lKMq_ouEHSO1chRoPMyu9Uz4sdW_nw0lzneMfiQkgGRJw_1J7lRNTQ7uAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:33:43.832483+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: crunchy
+  version: 0.2.2
+  revision: 1bf90cf2d0a8cfcb2c5592275a23ab028dff6468
+  digest: 2muAdl3Hf9nrKCfCRdTDNA2Rens-JJcabzTkqZg-q7E
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+tYZFrjiJma2JCeK6cVHA1yR29YH-8NGYPEMP0VPVUBiayhdskIxsuvm_47i6ZQTtnmFy1Gz4Ncy1oDRTqYdLDQ
+----- END CREV PROOF -----
+
