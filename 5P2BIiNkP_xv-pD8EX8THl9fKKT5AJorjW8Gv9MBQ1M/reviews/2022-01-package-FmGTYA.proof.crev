@@ -301,3 +301,25 @@ comment: |-
 WUGpmSSy3PX2gI80l9RpoCz_eGaEB4yDfN6r6HNX17aGJ8eQZ-2CR9dsISMChHBsJOLK82breUXv97zfIbRmBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T15:59:10.733116+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bytecheck
+  version: 0.6.7
+  revision: 73d9b08852e54a03fce7b26b0dc3a545e84f9975
+  digest: UglU0dPEwIqhyqZxKJ2vtSz-RNYWPikySxvAn578YDA
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+1YHnjSD-_Mv82mxHLtQg9ykn8U8_vqcnLV8pNN4fDVKJfb61z76nKN18mDUHwIdWaPqgcZ_hwhHMUjnYXCb4DQ
+----- END CREV PROOF -----
+
