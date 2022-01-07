@@ -1279,3 +1279,27 @@ comment: |-
 Pec_KKa4yk1ow7fjPmhBpJHqwXOUEHAx394tELKpFND_xnQYd5Tdp6iOsDrMbYKSUlroJwrqXMWDZLrSWREJAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:41:44.820524+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: crossbeam-utils
+  version: 0.8.5
+  revision: 6d4cdd4daf9a897deef6cde9569f2fbf12c29bc5
+  digest: IWe37yo9yoTszI5IdBaE41ZzuFzm9qo3emM63hvBrrw
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+_gsHFy_axQ-5gfQgaPzzsD0yJ5sDjiFL2ZBJJCjaO9U7HI9QxTVRdrA_Hy2Vg_Yj1p5WemQ95SbsSoYtLoZ_Ag
+----- END CREV PROOF -----
+
