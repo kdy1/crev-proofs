@@ -41,3 +41,33 @@ review:
 n4Qw8Ch0_7bxkE7aJoa1wczgwgC2z7Hs1ELuAC6HBOkpL1TbEdNVdTKQxi0a_-8GeGolaSb5p4NN0XY9nI_GBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T15:34:09.584894+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde_json
+  version: 1.0.74
+  revision: 58d40de6ed22bf0c80bbe2443dd00f265281aa2d
+  digest: LE8-KRpsKdZIbbsQuJXSnjfaU_U6JH7oFFI2ccw6BnU
+package-diff-base:
+  source: "https://crates.io"
+  name: serde_json
+  version: 1.0.73
+  revision: 296f718e18681c52909da99f24198133e58528b2
+  digest: kXS2mMj0t5oucVX8Cg8oM5qaZRJ-StNumn1skSbBCp4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  I didn't verify this as this crate is used by lots of projects.
+----- SIGN CREV PROOF -----
+d-Gkko3S-tXr-mi5G_OCIDUJ7B3Wi7jj26Z9ux2JR48LOM7IPZLAA2Vz8AvG_A2yn7iJg95oB5_dUzq8T_pEBw
+----- END CREV PROOF -----
+
