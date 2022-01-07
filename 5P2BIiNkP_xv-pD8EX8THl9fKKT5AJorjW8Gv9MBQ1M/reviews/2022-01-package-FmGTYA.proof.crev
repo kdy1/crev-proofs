@@ -3409,3 +3409,27 @@ comment: |-
 b7byE69p60cE7s6DeovwUtJ6xUaJDPbK45PqQ3aIzBKndMGoAzC8_bcblfr9ZjvUr0Qbc7FSoqCpMjn07NlWDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:56:30.974935+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: redox_syscall
+  version: 0.2.10
+  revision: 14796acfed7dd6fc353b18c001d3798c3aed03bf
+  digest: 3W9TbdRpPBq6maTDdmKwTuG-X7OhyMp0UewaWO-OrUc
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+d-_UyRuBv41iesdKn0N92yeiIFTwnVgjFYEH351v5lQUSh99kvpEXCJMLQPmGb2snEi0K9zEF55FkH49BIFPAQ
+----- END CREV PROOF -----
+
