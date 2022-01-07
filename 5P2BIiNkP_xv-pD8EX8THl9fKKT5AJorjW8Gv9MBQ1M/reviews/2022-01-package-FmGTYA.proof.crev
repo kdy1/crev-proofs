@@ -1063,3 +1063,27 @@ comment: |-
 loxHbfpJfRLG3jMh8ZLJ2W6hWLcAn99aIT3MbihYZUiqU9pLWKyW0AXUSeqrAsBQyG1X3K_KYqydVGR2aUybBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:39:00.377624+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: memoffset
+  version: 0.6.5
+  revision: 01e2e42ef0d833682c27b0f40a2cc748d86b2dc3
+  digest: 0zStItmHnlWVcvz991ASLKReJRxlJpbTVGGXWI7Iy7E
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+JrcZi2DN6powguUw2QSETNXidsKvCj0nl0G7dCiRlnBe0jXkBlghb3Cg614xl9es4RH8QiLTI172KtpIjcOcAg
+----- END CREV PROOF -----
+
