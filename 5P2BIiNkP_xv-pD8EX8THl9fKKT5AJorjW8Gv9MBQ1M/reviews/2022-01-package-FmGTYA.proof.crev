@@ -2239,3 +2239,27 @@ comment: |-
 NM_3xqo_C6fALCUj2zgUZo5XgkdtA9cZ-I7jN6RTFtyhFvweAZWknz1nmb7u_Un9qOkpsBaPZ3z3IcxPqpBdDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:33.690660+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bytecheck_derive
+  version: 0.6.7
+  revision: 73d9b08852e54a03fce7b26b0dc3a545e84f9975
+  digest: a6efP9o_KOB9frN3JpaVp3uJCDa_1yLTa_uWLx6cTDY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+fAn9kP5w_BXCKKeyBBolvJ-Dc-nk9AfcmVXcGKWaiDQtAe-l4ckGVplD0GoviNFUHP_dKg5_TmADRhqjJPKAAw
+----- END CREV PROOF -----
+
