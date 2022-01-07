@@ -2191,3 +2191,27 @@ comment: |-
 f3hL3Js-AeZf90sRSD-GQRTMM9eHFvJWEfMfqFqzr8XEFbntyPVmHWlhbUtbZYRTab5CzY8jVqevXioCF4HSAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:22.919211+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: idna
+  version: 0.2.3
+  revision: 837538c549f3458f157ee154ae76e3e2b9e27118
+  digest: f_C6RTpkeXphl72OuiJLniUk-wdQbjt5N3z_f2-CRtw
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+UVHA5RYJ22aTLWDGxk_XdpFtEWy0_N7BwSTFTkWtqZa0WczSEDozoCG_3JKHA_0D0Zv_o1CHoLlVQqM8qJmGDw
+----- END CREV PROOF -----
+
