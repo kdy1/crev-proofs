@@ -919,3 +919,27 @@ comment: |-
 HMZe7-y9rX2-GOg5JT43d8sadvgnzaQmISTrPYCu0oZZjAq1TagY7JEMM7CDa9mhX0zPM-I3G10cGMvGsFAkCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:38:06.039868+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: seahash
+  version: 4.1.0
+  revision: 94b632aeac099031c373599313d5b5f0acbbaec0
+  digest: iwfZ6fIPw7Z4TgcyW2KHgTlJu5Xk1lc8oBSbSFzyYcM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+rBr5csSxbPUhEX-iIL28OCSb6LYiHrp3ppip5h-UgE4STnmEQ889Oqo0L1JbHp33nln6n3mOm8WPJtERsDUNCw
+----- END CREV PROOF -----
+
