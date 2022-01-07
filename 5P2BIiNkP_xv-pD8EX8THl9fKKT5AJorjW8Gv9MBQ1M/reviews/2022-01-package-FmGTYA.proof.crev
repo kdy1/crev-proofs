@@ -1831,3 +1831,27 @@ comment: |-
 V-Jb-7ro7eByOJb6u__X0hD10gmjRczxCRN9aeGcs-mzm4CqkltIryj0vKOy1AI8v37WleDUS5utxDZYW9NnAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:44:05.238509+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-normalization
+  version: 0.1.19
+  revision: cc28b8ca9f9ef38173793573c14c1a6106908ea2
+  digest: wnweYCCSEBI0QPAPIDcj4rs180_nIE4TS7dVrUKRj0Q
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+GjXfdOKNIsI7Qai_ajNMgmvjzOZJMMyBojHacpbMTYO_io5ZjAodNrhtU47W23NmbfV-nMJ9qjcsGNjdCfqmCQ
+----- END CREV PROOF -----
+
