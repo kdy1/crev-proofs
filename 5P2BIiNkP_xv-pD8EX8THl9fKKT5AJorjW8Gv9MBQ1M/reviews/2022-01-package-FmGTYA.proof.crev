@@ -2095,3 +2095,27 @@ comment: |-
 -IfOU172CaT9RCxK67KzrmnTbfgH-TpJLeJJpGMEv2iy8uuR4s9Wi5JvokzUMw9Zt8jMUch0-UkINHv1_CgaCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:02.593686+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: mach
+  version: 0.3.2
+  revision: ed048bdb06d5d6a6ea13c9c274b868ea4c943796
+  digest: 1HDOluGMzcGsK4HMOZOsEm6YX7sRUDiQytCFoaWfhSY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+eoZ7axqaQx_Ubbp8bEQ4xRdyQ79Gx2rAhZoelb_PTu0nDKd6Y80eXOXLolk8-2M2B5bhvcVLP80JjcwqCbjCAg
+----- END CREV PROOF -----
+
