@@ -3744,3 +3744,27 @@ comment: |-
 XxrPIGmRJrpY4M0toYzzqjuANIXl7xMdFw0QGL3ZEcCBVKgdUq7sjzidY462m75Uq2wJMkbVvZGSo3W2HXY4CA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T17:02:27.726449+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: itoa
+  version: 1.0.1
+  revision: ba8dd88380e7d17c776907d9a1e6b0c0be5bcedb
+  digest: q64-VXAjZXFTRVZ7uI_oOZFdlu5Embvuc5P1HS3YTX8
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+GBX-U0xx0GuFI2s_C1jSVj_kGkZvI4C8JLBipmli6MK6852FriiPLzyeDVR_md1zCElnYHPlDrv709s9C3p9Ag
+----- END CREV PROOF -----
+
