@@ -1807,3 +1807,27 @@ comment: |-
 wLgZ5N5ciBuLjVu55K24Py0Iqk61tNQL9FUsrw2VFgq2rJ-I_kGnN7b50SiY1YLVL4SNaVnAHgppiTk-jVQ2Dg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:43:48.878887+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: regex-automata
+  version: 0.1.10
+  revision: dd59a74be412e349bf6df528a216a13c2cf57262
+  digest: NwWVP1qo0SBNK7mX46y3UKOnRl1os2tAUkOPaxtA4Rg
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+V-Jb-7ro7eByOJb6u__X0hD10gmjRczxCRN9aeGcs-mzm4CqkltIryj0vKOy1AI8v37WleDUS5utxDZYW9NnAg
+----- END CREV PROOF -----
+
