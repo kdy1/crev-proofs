@@ -1927,3 +1927,27 @@ comment: |-
 RAQAK4gAysG8thnurCYr_eZZu5XxE6oEm0v0F42DrDF3Y3vxBoLpRWwAifTYBurwAdwaU7rpgIllGhHJL9yUCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:44:23.850136+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: crossbeam-channel
+  version: 0.5.1
+  revision: b13fdeef2ab90bac1482d38959beadbc6b0a08ed
+  digest: 8mjh8URZ1SlfNXz7OV3tMbSBcuVKIk0UwEP6MlEp4go
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+vxwrMN8a4LI6qe8GddIAkSW7uyunhFC6qGCJ4uXF96c6ZijcVsvGejjn9zF9r-BBSAFLnOzHlBbfidVtANm4CQ
+----- END CREV PROOF -----
+
