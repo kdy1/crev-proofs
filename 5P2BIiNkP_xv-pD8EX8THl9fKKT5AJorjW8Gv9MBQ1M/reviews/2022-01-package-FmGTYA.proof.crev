@@ -1495,3 +1495,27 @@ comment: |-
 58IoMx8v4OR-EvfV3JqHFhe2uIm-n4kOYy4y9mXl8faC1vpR3h2MUHUGZUAEwCrB5BtAoIU_Wyjh44WOAUICCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:42:33.807884+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: addr2line
+  version: 0.17.0
+  revision: 028973a30a58cc993f13f55d49b17ffc99c7385c
+  digest: gXe0yMXWs79WTyNez1Zt9SSQEfv-UPlL0Kk_GFBJfVQ
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+wT6CRgDjdOqG1-rhV3rJnM3xtyMHZq_hfUGrAlZBWm3eT1Ehw4xKcIL9035TsyAg1GWD2hjbYIzPWbSdrRIVCQ
+----- END CREV PROOF -----
+
