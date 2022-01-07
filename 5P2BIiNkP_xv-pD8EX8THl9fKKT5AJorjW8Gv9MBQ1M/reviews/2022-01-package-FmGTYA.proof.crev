@@ -2811,3 +2811,27 @@ comment: |-
 FsVg6_ueXEkFwKwJHelNTARyi5k7F4bFNSmmdx5NUWQPo9F-y7QYx-4GVIY98xkq9GaeE0ClenQoVoM6eUDSDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:47:58.666525+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num-bigint
+  version: 0.2.6
+  revision: fc3aefed8e3c6d77a0f81a0b35aa8af1417853ef
+  digest: Nus7btHwgot0Dme2VMF5M_Nr67W2oajSccJAFY88ntE
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+GbtxRitxfDZ4lpo-SKNKwn2kBMjxBQxC64pFFL2WmiQba5H2ro3oWsZa1HpVctzWoXA9IP_nBSB1kWOd3OmYDQ
+----- END CREV PROOF -----
+
