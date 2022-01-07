@@ -3433,3 +3433,27 @@ comment: |-
 d-_UyRuBv41iesdKn0N92yeiIFTwnVgjFYEH351v5lQUSh99kvpEXCJMLQPmGb2snEi0K9zEF55FkH49BIFPAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:56:57.993951+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: darling_core
+  version: 0.13.1
+  revision: 1fe7e3644a83099e77895316e4406e569c1c6130
+  digest: FFU0-yU_06yDW7e_sn2fkHA_oi5098yKQ2uV1uG6X-s
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+ogsLBAp5RLNVcf43nM29NTFCytJFR3pVbjvbu5h52xBkHQl-fVwoIFDiQWf6EhtNfJ5-wRXPTA53ePPyvViEDw
+----- END CREV PROOF -----
+
