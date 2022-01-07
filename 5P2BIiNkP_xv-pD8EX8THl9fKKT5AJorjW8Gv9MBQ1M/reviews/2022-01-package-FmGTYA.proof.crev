@@ -3721,3 +3721,26 @@ comment: |-
 wggs0yRXPv5vxBWForYRcmI8gyy2wLRm0VN3nQTV3L9kIlqzNSFVzOQvo27ck4Rq_amjHjmq-QslxLlkzp8iCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T17:02:04.140914+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: semver
+  version: 0.9.0
+  digest: b75rDSbdikRbO9NCiU7rbML3b90RTE4zKx7cNNBj_h4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+XxrPIGmRJrpY4M0toYzzqjuANIXl7xMdFw0QGL3ZEcCBVKgdUq7sjzidY462m75Uq2wJMkbVvZGSo3W2HXY4CA
+----- END CREV PROOF -----
+
