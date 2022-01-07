@@ -967,3 +967,27 @@ comment: |-
 QX1PN1uEcKtu9JZTx0HQOwhNMxrEu5XEq0r96tiz_MtFDzly3rbxivfBO1kqMPNlV3TxvVXy_DwEkMkOTkrnBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:38:27.757146+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-bidi
+  version: 0.3.7
+  revision: 121c26b55190e14cac4b56fea02bb1e4420c4c00
+  digest: q34ZuWnT8JpQU6R70wZx2L-6aooiQXkRPA9hnBCXoNE
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+zrOE-qqVzKO35Xhk0ij3xH0t0DphUQTW4mxkP2aVm4Gzm-o4M7Iy40d1Ilooq9sIhqT3X-IVhygkhdRJL_DmAg
+----- END CREV PROOF -----
+
