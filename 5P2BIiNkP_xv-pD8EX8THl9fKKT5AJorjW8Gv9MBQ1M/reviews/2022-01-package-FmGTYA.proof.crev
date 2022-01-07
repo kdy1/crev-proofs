@@ -250,3 +250,31 @@ review:
 1LPwE3YCQNaXZJzShFd4VVkklsnzCM0yBcz-WfrrRaacXFogcS0jtulIXiFmqsPKqGO8UGvogyRTBuymmHCHCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T15:53:37.508079+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: regex-syntax
+  version: 0.6.25
+  revision: 3ea9e3eca7b762c30fbc09205522e3935cd70052
+  digest: RSG0gRra9wCXFdMOkvBURqdDOVa5Bwd4srZwYg49mFs
+package-diff-base:
+  source: "https://crates.io"
+  name: regex-syntax
+  version: 0.6.11
+  revision: 169783c1d6e045ff2ee418ea3556d09ed97e8f3c
+  digest: jpb-7eZGGg3VD4Qv8s64grLU-tFlXore5J-p4xG9JKg
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+RVzyaynaO08uwG27ToERqDM26Kc_1GrzYLWx2csMuFEtWc1m0Lku11C8NZDNmfSvOEGwEmW7p7cWnVBQFNPPDw
+----- END CREV PROOF -----
+
