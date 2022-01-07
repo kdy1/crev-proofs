@@ -632,3 +632,27 @@ comment: |-
 soNrfi3w-iQb_PbqmyLO52a_WCNXAaFgEV-pDdvnAmmxuvPKc-4o5wizg1hkOrEF86X-qpM4JKtdNbsO4uc2Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:36:07.881328+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: percent-encoding
+  version: 2.1.0
+  revision: 0e874ddcd6fc68a19dc2b6d91bbde2928bac2d0f
+  digest: kTZbdrMDbSAJqh_N5ox0_caB7P-TsyQtjqhXSQghREU
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+Z_PdkrjkzHZSMEZ1zI4z6l5aIbBiAaQ9N_9mvYv764d9gS3FYI42V3POxASk4gCxL5mknFmrw0lMwad2Sow3DQ
+----- END CREV PROOF -----
+
