@@ -1903,3 +1903,27 @@ comment: |-
 ee4Cy7WiuxNqY3R6owNYeBY9HSOFOKEGtvUtc4nzPtJiBcLphY28azxLhrO4OSEkyRvtgg2__UCfOyb3tl3iCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:44:18.484193+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: memmap2
+  version: 0.5.0
+  revision: a6dc522f75feb9d60d76d406b4c64b5c02b0456d
+  digest: pOrcKpJTGulRP7poLE9pkv6UXe6Wh1N-FnbQgdSpfUY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+RAQAK4gAysG8thnurCYr_eZZu5XxE6oEm0v0F42DrDF3Y3vxBoLpRWwAifTYBurwAdwaU7rpgIllGhHJL9yUCw
+----- END CREV PROOF -----
+
