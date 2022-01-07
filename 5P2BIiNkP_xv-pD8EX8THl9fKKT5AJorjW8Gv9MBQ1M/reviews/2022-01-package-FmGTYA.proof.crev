@@ -3625,3 +3625,27 @@ comment: |-
 gZQI0qb_aZwgyYXUwRVVo5jC1Tfz6AmLGt63fbMDBTOht2nDZg34SPqN4XKhkBS-1wh-vpn8DxLlD7POtQt4Dg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T17:00:35.160572+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasi
+  version: 0.10.2+wasi-snapshot-preview1
+  revision: ad108be04b000a510f4c2b2aba282cfe99149d7a
+  digest: JzVAdKT8wT_6ZDtNWfZc0xUHz6o3inlWveq_jLuBzG8
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+W6RhEYa99RdOhQSjBO7JHFe87ojGbZoKnJdaeewk_arEpP_ldZ5E3VA1K_nwo9La6lsnFk6ModSU6EbsogwcCg
+----- END CREV PROOF -----
+
