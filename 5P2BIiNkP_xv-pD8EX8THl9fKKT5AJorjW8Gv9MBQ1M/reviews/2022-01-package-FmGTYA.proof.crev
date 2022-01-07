@@ -1255,3 +1255,27 @@ comment: |-
 DOal7AhafUte3Zwyoo6A0FAX1FQX1_k6H8LNtQbrMu0fpZoX8eepH6jyerfWXFcMGuvnW_lMXKMiaiVGMg1DAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:41:28.476439+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num-traits
+  version: 0.2.14
+  revision: e8da6fe581f0e14a6322c5d51f57bec641772dac
+  digest: 4QK2WIZTv-mo0lLXElTQVjdmbN3B2k2gw5BCrzVLgq4
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+Pec_KKa4yk1ow7fjPmhBpJHqwXOUEHAx394tELKpFND_xnQYd5Tdp6iOsDrMbYKSUlroJwrqXMWDZLrSWREJAg
+----- END CREV PROOF -----
+
