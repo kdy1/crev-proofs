@@ -1399,3 +1399,27 @@ comment: |-
 gvyjOXVYqbtUNet_p6yccrcks8xd4Gyrlf-aNRbCJ4N0ozjcWm_wLmbO4HdLtSacj2eKj09nhPzYl_O-KueGDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:42:08.542828+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: mimalloc-rust-sys
+  version: 1.7.3-source
+  revision: ca1414bf40057aca929d8737f5549b694f6caada
+  digest: Wz8-2lPh_jZQBsHzYMGv6-Rbwyg8yCxu1FDXM0DOBB8
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+lzFdRGPqi58OkSM1U-pux1xlBDrS10LEy-hR902iHfL0echlHcG71tkdjGLcCK-2uiOLs2Tdu-eYOzAWxmF3CA
+----- END CREV PROOF -----
+
