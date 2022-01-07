@@ -1159,3 +1159,27 @@ comment: |-
 eVGSUDXaIjJS03aD9voayhHgA48rwAzPIULMgkGjhgYhDFDloZRcgjD3bztEouXe5d5LTT0Mh7nhgUvnkr8bAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:39:33.114723+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cloudabi
+  version: 0.1.0
+  revision: 35a4b60fbdcca21dfc93ee1715130db5fdf44159
+  digest: 9_S-L1HLrSkzI1wl7-5ifzRcJpPgd1SnTEQVMPvnank
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+WyeDQ30GIxgYJmQloYFVkHdNXX8BXtXWQDv0k00u0U603TNw505HQuCJBpXdz4hlypbMVgwNpKldutQmwN3bBg
+----- END CREV PROOF -----
+
