@@ -895,3 +895,27 @@ comment: |-
 2xabtDBy2DDwlGiYE2-aBJdIASGxtfq5wg1_DNR9gh1V0hsDMUndLH6vPtC-FyweoGZTP0lXz2APUC3eAq6WAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:37:55.313690+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: heck
+  version: 0.3.3
+  revision: d2f9cda3a00a62ae1e0eeeea8f0a081c7598b8c5
+  digest: 9pe2dPn2bi1kPL-nvTvME1KsMBremxt1YKip8yEVnHs
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+HMZe7-y9rX2-GOg5JT43d8sadvgnzaQmISTrPYCu0oZZjAq1TagY7JEMM7CDa9mhX0zPM-I3G10cGMvGsFAkCA
+----- END CREV PROOF -----
+
