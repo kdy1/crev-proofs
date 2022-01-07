@@ -2334,3 +2334,27 @@ comment: |-
 qJde5yfWvBTaiDEfU2aofvbPZF0LPJEvmtd7a07F44hEKfb1LK_uQdfJSQXzMxLOhdeE2kSDRp5RsO0iCS6xDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:45:55.261506+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: loupe-derive
+  version: 0.1.3
+  revision: 7699083a3e30f1fd2f9c8069644d2523176ba591
+  digest: LN-we1seJ6GXF4uDn_h4Na3ZhtCxJMRBADu-LqqsztY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+PQqXpnF3-DJShkOEjKg2s4t1mvI7dSmxy-VuDH70mV6LvCWmcS1e2HcmpA3nU7nPG_MX7YMfz9qpLie8eDH8Cw
+----- END CREV PROOF -----
+
