@@ -2787,3 +2787,27 @@ comment: |-
 FydUtKTfbHDaVKSMol_2bIavjWijYSuPwTh-l8d_aTJtBvnzqWqft7D0FTRYYESfTJfeKyFAVssZ_NcA2j2gCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:47:53.293944+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: enumset_derive
+  version: 0.5.5
+  revision: 5774979d35fed66d3b026b795510f2fc5d85a941
+  digest: jil8O87PJkfE3ujahmW2x_CR24nr_7sPht-RT69gcts
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+FsVg6_ueXEkFwKwJHelNTARyi5k7F4bFNSmmdx5NUWQPo9F-y7QYx-4GVIY98xkq9GaeE0ClenQoVoM6eUDSDA
+----- END CREV PROOF -----
+
