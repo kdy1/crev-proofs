@@ -2978,3 +2978,26 @@ comment: |-
 0S4KqpWaAfNI-eMi2WTdQcjcQOh36JZIJ1N0UBiu6s7fs190jRwlGY35cJORIBp0j--hOdjI-Wc3T5eZ0MFADg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:48:38.416792+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasm-bindgen-futures
+  version: 0.4.28
+  digest: qc-iVN3jTIoTmQdmPUxssQsTvWa37tJnqcvRBhCsE3Q
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+JRalgLmXo8e_qNHYnXzU1Tj8Hm1KkoVKhjeRUvr_1gfmrmr5mdASw_cLlQHLOBV_PdUiHDlQtv3_p30bjdCvCA
+----- END CREV PROOF -----
+
