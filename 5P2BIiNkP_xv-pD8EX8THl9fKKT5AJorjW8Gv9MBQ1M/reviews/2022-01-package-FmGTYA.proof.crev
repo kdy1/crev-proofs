@@ -584,3 +584,27 @@ comment: |-
 4FAVlcCjTTteY7ICraR6cs0Ko1pnrKqjFlb7tJ6xFk7DJM781ZbLAxtiiTLfrUDi83bfyKC2qqcUebnQk7GyAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:35:49.109633+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: try-lock
+  version: 0.2.3
+  revision: 5e2b0591ce48cc071d6d9cde31339b3ccaed4a36
+  digest: uLMa9r1wVU96IolmjKyNvPwq1kVAsMzKjhu6Az2DZDY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+gmn8mJif6k2uL3d8cOBqxC9mFsD0WJx4ZUbZdfX4M0ioE89RQk7SVXuJwfTSz5TaM4zDMFAaJWQhx_SRr1w4BA
+----- END CREV PROOF -----
+
