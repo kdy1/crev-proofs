@@ -656,3 +656,27 @@ comment: |-
 Z_PdkrjkzHZSMEZ1zI4z6l5aIbBiAaQ9N_9mvYv764d9gS3FYI42V3POxASk4gCxL5mknFmrw0lMwad2Sow3DQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:36:17.241828+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ppv-lite86
+  version: 0.2.16
+  revision: 4b1e1d655d05c9da29aa833ce705feedb3da760b
+  digest: "-ujc4n_UaV1pjkWX-sPyBuIcH0LEDLsQR4Zw7R2-rUg"
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+TmrSs9Ij3dtl_xBzcOIJnhp8HeV-ErKTbEcK5SrrX7PMePxTrr74PYe4ppLtZI3g9LcEcYMS-tFdqiue1blaBQ
+----- END CREV PROOF -----
+
