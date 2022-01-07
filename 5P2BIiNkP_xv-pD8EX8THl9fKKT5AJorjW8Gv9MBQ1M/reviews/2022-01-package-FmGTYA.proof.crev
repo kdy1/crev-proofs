@@ -3481,3 +3481,27 @@ comment: |-
 mHHIXR9-9Uz4dAVewF3fyFI9VByfpoToAOl7vPoSedHIeM_g3kXaSxOLGyNv7GBnQRiPgOr4qX1z0Njpkdk_Dw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:57:43.844620+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: gimli
+  version: 0.25.0
+  revision: d777d0d93887f8f11a40079c35ca1ff11e7114a1
+  digest: qZdmSAQqdQLsbT3HU4H1cxa3LSsYeDVDko5cqhKrSZk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+I3BfME9bzwwWBZHOsTOyecAOeqHwMcYLsXVbbHRc7Q1cQLZDlP9F0FsjRRTFBlEtPAyTV_Jg3S5pnexhB70GCQ
+----- END CREV PROOF -----
+
