@@ -2883,3 +2883,27 @@ comment: |-
 _rvi9MWvzBK0gS_bYBTBc_KZqodR09SyU-ElDANYZvF7_jueRD2-JgOS0k-foPi0NZa5P75Fc-7ywGyYIz-rBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:48:14.837144+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasmer-types
+  version: 2.1.1
+  revision: a66226594f5035c6a4816ad338c257f2ce5c5c86
+  digest: xbnBll0cQgKt3dY7gQNrodJoyR2pUlmQduXHuvSrIww
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+zR-fU3OWsFOkIDacUIjKpua2ElKyJDcEEzVL3CYBesxqMbfa7lkEDDP80_EJgZ46VvD8jtqmtkmJddfHPnctDw
+----- END CREV PROOF -----
+
