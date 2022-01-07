@@ -1111,3 +1111,27 @@ comment: |-
 YpMnu08rU70bfz-tkj31vi5VWnajw_RBVD2l90wAOnG4OzhAU4Pp1OYR3xniYoaRdns5DdQR-cpkUktsbVatBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:39:16.079928+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: minimal-lexical
+  version: 0.2.1
+  revision: e997c46656ebe83e696b866bd954da1fa3f64eef
+  digest: l8ofWnNc23xNfbdOTQ1KogbAVUMp3fyBEix9julQevs
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+b8NuuQDXouUwQVKg3SL2Tn4Gsfc_MJiCvyBosGAJwr187kXeZX69cwzwNK3nJ8kHaxM5Pm8FVsSkrV758teODQ
+----- END CREV PROOF -----
+
