@@ -3073,3 +3073,27 @@ comment: |-
 02LPlFA9oeeVoVCxo4f_5F3lqXSJg0sCjErBMD9UqzvDaWhDUAQUk7zmwk-z73Id6SgynNjoXBG0LhJ2N6X1DA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:48:59.935273+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: socket2
+  version: 0.4.2
+  revision: 380a1a48c16cf569a967e9d74f980abdebeaf714
+  digest: EwgxBd7Sm9saWIArNxDD0jOB121N00vzRuHTfpPwOMQ
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+cVN3gWR-JaR5HTxRF39Jb69uaDwYpgORkFRNB1TsyjUbNw8J3XP0EkjalBy-pcnl4_SIFHxIm0J17x17-ZeLBw
+----- END CREV PROOF -----
+
