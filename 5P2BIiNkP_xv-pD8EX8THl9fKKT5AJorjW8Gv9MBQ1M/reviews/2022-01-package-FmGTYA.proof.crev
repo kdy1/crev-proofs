@@ -3649,3 +3649,27 @@ comment: |-
 W6RhEYa99RdOhQSjBO7JHFe87ojGbZoKnJdaeewk_arEpP_ldZ5E3VA1K_nwo9La6lsnFk6ModSU6EbsogwcCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T17:00:57.599752+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: strsim
+  version: 0.10.0
+  revision: 72784f07f22cab2c93512a6eebca272467b1789e
+  digest: pXGwJCpdzXoJPTJ9krGlHqjEndnXRAsD0a-jWrBuMfk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+sE-sV6WBqfdYR-juXsKoCxiBIxwzAs0t_gvlNsy9hoEpkw6x-y8ZMdFQi29DG_vF2rcp3oy1zFtu7CY_CbSeBA
+----- END CREV PROOF -----
+
