@@ -3912,3 +3912,27 @@ comment: |-
 pAghmV8J1gexc-VIM_Lyj166ZC7CVfzmZHdvTS2_u7hXT39Ntvos-YZ5WE91uOA_BGsGwZ0QRr-0ptX6qIVIBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T18:02:13.483234+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasmer-compiler-cranelift
+  version: 2.1.1
+  revision: a66226594f5035c6a4816ad338c257f2ce5c5c86
+  digest: Uk6l5YG16jgWwT3PKlBS_kfYpL0Y0aKGLKc8pUypX1E
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+blJNc1irfBY65YRVGixgU1viiWC2GTUTjUrPp0HQcumFlcby4Qaf2OawvReYzz-y5OI04e3uPKR8Z_fLDwlBBA
+----- END CREV PROOF -----
+
