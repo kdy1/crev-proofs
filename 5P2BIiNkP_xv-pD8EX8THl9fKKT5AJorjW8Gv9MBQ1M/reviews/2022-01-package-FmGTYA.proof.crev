@@ -101,3 +101,27 @@ comment: |-
 QW_-B4WPSSV6K1_83pTaq8EuS6SA-MyhFvXilDR2DZFNWj5itBtp4UMj0CgJQCnugMJc0IXnjGcAb5XeWJsJCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T15:36:15.951184+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rkyv
+  version: 0.7.28
+  revision: a85bce897f410a810666e0abd24ca193db379a09
+  digest: cnuJy0qnnKdSyltbXCR8v5SNReWfNEiJJNJlU-wCZDQ
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+fabdiTtX2OQnZyiK1PsuGH1gVJ7yBoYPlhUZVN3hZ2HLN8PB6MwiuwVEdnxwewueBIteMQWUHfGYSSjVLGUnBA
+----- END CREV PROOF -----
+
