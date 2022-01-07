@@ -1951,3 +1951,27 @@ comment: |-
 vxwrMN8a4LI6qe8GddIAkSW7uyunhFC6qGCJ4uXF96c6ZijcVsvGejjn9zF9r-BBSAFLnOzHlBbfidVtANm4CQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:44:30.194863+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: aho-corasick
+  version: 0.7.18
+  revision: 1b116376d6a8f920adf5add27a689b2134eec8d0
+  digest: LSUsNz69HntmTi2x7bv8zMW-rTx6q3rrtLLthwFyKfs
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+s02yqclvIrNieZ8w9UCUbMNYQzGpGfQjHnVTayNT_lXZeL4pjjMy_vmJlh3AEsHOEVOA4CvnmgQdA3F_EvryDw
+----- END CREV PROOF -----
+
