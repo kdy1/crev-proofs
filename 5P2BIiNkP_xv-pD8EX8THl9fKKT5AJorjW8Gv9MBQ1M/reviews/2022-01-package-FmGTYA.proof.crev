@@ -2931,3 +2931,27 @@ comment: |-
 cMvgwYbXJPpH0N1SKWp6OxX2GgG274D1Y_2UeHqfwJafftc3VMaaiNv20XBUSa1Bvxormq8Vd9gz-MZzdvivBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-07T16:48:26.914679+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde-wasm-bindgen
+  version: 0.3.1
+  revision: 4bb362086c873117499a87dd2a7a1e532b1fb843
+  digest: KMDFt9v2vBzVcWng6BuR1tmBs74c9Y2GdtpZ9ZYjzoA
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+GgkzkJsd-6JcnnP8p5WdhCIxppIs41uYHbbYIXucIIe923P4YLo9RRMA15T1OGovfbtAcTVaIVQFENu8zLyJCQ
+----- END CREV PROOF -----
+
