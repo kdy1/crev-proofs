@@ -3936,3 +3936,33 @@ comment: |-
 blJNc1irfBY65YRVGixgU1viiWC2GTUTjUrPp0HQcumFlcby4Qaf2OawvReYzz-y5OI04e3uPKR8Z_fLDwlBBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-27T15:35:16.394852+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: browserslist-rs
+  version: 0.7.0
+  revision: e6256ef4083fa9e92181b191c3f68dc91b25fc9a
+  digest: uevNq48oB6pRl3uB1-pIGWwzHihwRI3s76bIcHM6t8Y
+package-diff-base:
+  source: "https://crates.io"
+  name: browserslist-rs
+  version: 0.6.0
+  revision: 69688f5c1314e5d3fa469a081b0ce01208ffad7f
+  digest: fTGSAo9-ysfWK0mhtYZtvOiJyELeQnM2-XFt2LfDLxY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Seems innocent
+----- SIGN CREV PROOF -----
+6kpQClJKDwnQU8l_HihJW0Vc2tNsU2X5BXw1lBBCcSaK_K-GkSMma_qaT0CZl1eA9Gr-NSPgmiJXw2NIAla6Bw
+----- END CREV PROOF -----
+
