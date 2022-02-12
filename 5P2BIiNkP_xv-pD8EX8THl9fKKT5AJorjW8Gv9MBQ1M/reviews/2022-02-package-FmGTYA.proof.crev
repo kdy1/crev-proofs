@@ -422,3 +422,25 @@ comment: |-
 32AXXixD5IiaDbKoRaO4qy3SKAgqh5wgM23nOGvM5JQev3NTfvmM_qNl_WF4OCNlGQ9ieIx55EfpQgM2IM3MDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:44:18.688631+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cargo-util
+  version: 0.1.1
+  revision: 97641b17dc1e3e7ffe0f1e38fb09b143b670a606
+  digest: 7Ap-F_BkD2YSe1XLEqUkTwzYtCdfrSbVtHWbZEvfTSA
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+uKnLU7zWtDbkn9yXfq2hvwW0r8G9Hxv036FUVL_kEoKwibcaAZKmg7MByLlmp4XwC17SPdVW1SHb_WxY0M_7CA
+----- END CREV PROOF -----
+
