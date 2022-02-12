@@ -537,3 +537,27 @@ comment: |-
 pzz48vubmXCBmR5JgP_G-H9_tBjBhlNrw6Hknt0T4YjBlPYkWXraWfZZ6hUX65SRHQHTgCyAw7JgVbxJLkb2Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:47:39.619338+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: clap_derive
+  version: 3.0.14
+  revision: dc035de4094e2f336fe90bd6d3332c9711137766
+  digest: DqLYg0GmsdplOZVkeYAPX7TJGfuXNncK3L0YstwqQDM
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+5JjcYrkYvXXBw_E0SIdp1Eoi-NfW-Nxfidve0zg2GRCTaZsthtX7oJv67QAYmJh9lN-GfJfEOwmHUi1ytn8kBg
+----- END CREV PROOF -----
+
