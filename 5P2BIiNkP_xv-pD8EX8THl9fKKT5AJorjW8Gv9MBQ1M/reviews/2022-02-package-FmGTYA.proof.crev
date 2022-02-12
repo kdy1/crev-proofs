@@ -561,3 +561,25 @@ comment: |-
 5JjcYrkYvXXBw_E0SIdp1Eoi-NfW-Nxfidve0zg2GRCTaZsthtX7oJv67QAYmJh9lN-GfJfEOwmHUi1ytn8kBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:51:27.295536+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: discard
+  version: 1.0.4
+  revision: 7a229c5b1105c3b327fb22d8d8811f0ebb56d232
+  digest: MYDhGPwrSLtzFAQ84HMjdjr0EubWfrdVH9lCXDzAYp0
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+bDBinciGZVigRgUGinkAUorj_6ZACQsUt6QEIl-QpEf_aA2VaAqGr36u7d9lFAMHG7gkkuxRE07WTDLunCiVBw
+----- END CREV PROOF -----
+
