@@ -42,3 +42,25 @@ review:
 HMV-z8cRaOC8tIg3QPMcw4zOLKSYRLb-OK50aenslCEITPYxKVTi28MDwC6PKe-isHiwX-1kw1nbbx2iPmhXCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:33:05.658333+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: const_fn
+  version: 0.4.9
+  revision: 4738bd2dc105acd01bcd9781f092a695c67d3469
+  digest: XFbiyBktpDRhUyHvuuzBoOXkj25CjHUXGbp5nUD3cvw
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+KdV0qvVIT5O3xV1PRYN02bWahImXqLbV_RvRZVp5Z25JcKrigQKGPONs0gJLrna4aoaNbNa7ps2HH3YQgIcYAw
+----- END CREV PROOF -----
+
