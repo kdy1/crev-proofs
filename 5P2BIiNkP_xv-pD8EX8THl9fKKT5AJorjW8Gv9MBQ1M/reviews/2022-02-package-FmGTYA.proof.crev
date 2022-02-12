@@ -468,3 +468,25 @@ comment: |-
 _0vKyfmHYm0hz4cId1cLTQSQBDvOS8eHUtAW_Y3yOh1HgfIt5fELHBbofSEd9VV8ixIH_10mJbwrIN9yEzAPBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:46:10.368815+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: standback
+  version: 0.2.17
+  revision: 172a3b74703f0f540629b24692eb067d42bdeeec
+  digest: nrjHM6mQg7mqGESm7dL6tZk7EEeM_sOtzXRcppKMvm0
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+----- SIGN CREV PROOF -----
+_bJk8OPpg3uv5t5lu6T-RVZvXr6cI5L54Gvk-2Hx5snuavl9y6EJuJ_2vKyjePFgGSpJ9GhUC7zzzxk9uuqpCQ
+----- END CREV PROOF -----
+
