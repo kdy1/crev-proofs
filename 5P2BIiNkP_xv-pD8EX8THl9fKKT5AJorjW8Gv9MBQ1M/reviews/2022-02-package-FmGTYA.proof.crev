@@ -278,3 +278,27 @@ comment: |-
 MXup6KAzLtMnOw0m_SWPyeMXUECV5xF-vB-ce-cQd1upSJHIh_8qnooY6kQm80Uc3KdEgIUTxM3lpF_JKVvgDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:39:59.644268+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: stdweb
+  version: 0.4.20
+  revision: 9b418d98df6fafaa4d4b87b04c304d0220292055
+  digest: 0IaRPvOn-VuTGjNirBQpgbcA--lUoayYN_w_3-elSZo
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+s4Y9uJRGA6vMuHy_eJUPMUbJ5KVhywVc8kQfE-NlUxYEMonq2PkXRQRnsTfjvTwB9kKwz5hx-QtKTkJ7nEhzAQ
+----- END CREV PROOF -----
+
