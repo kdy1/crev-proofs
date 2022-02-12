@@ -254,3 +254,27 @@ review:
 gMBXUh4M1U4ISMw3KX9mDayOx8lllHZjy_CoZvQO4T2Pl9sVaCKu76Vtx2347gPLPqOFJpcjfpUGFWEIZg_VAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:39:32.760218+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasmer-vfs
+  version: 2.1.1
+  revision: a66226594f5035c6a4816ad338c257f2ce5c5c86
+  digest: CyzzJ9QVI0MonpqlGkIQuI0Ui6Tk4yGsD9MP0oPRDVA
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+MXup6KAzLtMnOw0m_SWPyeMXUECV5xF-vB-ce-cQd1upSJHIh_8qnooY6kQm80Uc3KdEgIUTxM3lpF_JKVvgDQ
+----- END CREV PROOF -----
+
