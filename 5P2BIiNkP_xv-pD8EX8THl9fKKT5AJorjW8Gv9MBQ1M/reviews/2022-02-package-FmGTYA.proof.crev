@@ -490,3 +490,26 @@ review:
 _bJk8OPpg3uv5t5lu6T-RVZvXr6cI5L54Gvk-2Hx5snuavl9y6EJuJ_2vKyjePFgGSpJ9GhUC7zzzxk9uuqpCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:46:51.771633+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: time-macros-impl
+  version: 0.1.2
+  digest: 2FCG6BZriTjf2YJB8TPdJ5fiFzosZdjzKPqlYh2Lxzk
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Skipped
+----- SIGN CREV PROOF -----
+QP09yK3-6V7P_GV0EnHZ0VYTmMOSN_5q2lWOMOtFuVb9n3QEt0fXI3hLMvRxe1pRK7q73b-lu9b1i9sAZWeOCw
+----- END CREV PROOF -----
+
