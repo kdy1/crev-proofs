@@ -227,3 +227,30 @@ review:
 WX12GfUW3x9uiC_0HVNX8CSQLabPY3rJ_16vE90-Bp-MdzJU2-tDRqX35Tk2TpWAzrCUL7oiE_14V4gs2BXdCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-12T13:38:53.563130+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: shell-escape
+  version: 0.1.5
+  revision: 9bfec037f6fde99a7e4caf029919b0bb4b808c85
+  digest: aRvbB8m7HDX6Xx0CLfKREmHN1BgicrmOYIy-U9VN_TA
+package-diff-base:
+  source: "https://crates.io"
+  name: shell-escape
+  version: 0.1.4
+  digest: bijKKLMMvvWOJGvLm-VhJnO7baquEfQ7TUdFY64xIBo
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+gMBXUh4M1U4ISMw3KX9mDayOx8lllHZjy_CoZvQO4T2Pl9sVaCKu76Vtx2347gPLPqOFJpcjfpUGFWEIZg_VAw
+----- END CREV PROOF -----
+
