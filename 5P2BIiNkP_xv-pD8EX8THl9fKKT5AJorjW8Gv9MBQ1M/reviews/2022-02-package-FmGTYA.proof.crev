@@ -731,3 +731,33 @@ comment: |-
 S25iRyaWpi-ytc_1F0X9E_VxpO4VWick7W6kymha-8cB4zBQC35tgEMMTncyK8gyE1oN7XaZnYh3KkjPJdYRDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-22T15:54:01.814868+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: relative-path
+  version: 1.6.1
+  revision: 0340995e916a4dc4424b411b0fdc00b3a6c27b6b
+  digest: zbXgRNAee0l8KYgJn8zqQWS6DJIvksUH9tQLGsPmAQc
+package-diff-base:
+  source: "https://crates.io"
+  name: relative-path
+  version: 1.6.0
+  revision: d79427a8c836d82df78aea77f2ccd1669d06271c
+  digest: _rabmlowsNfnBZfkmRD7ErSdvSwlulsPb_dEcu8GFKA
+review:
+  thoroughness: high
+  understanding: low
+  rating: positive
+comment: |-
+  Diff seems harmless
+----- SIGN CREV PROOF -----
+49hSWFPsSG9rlB_mS-LHEKoSgEOz4OE0zQaBrPXfw2eVtk-xDWYDeAuRfhncCNIFWds59VS7m6gCAYkIqe7jDw
+----- END CREV PROOF -----
+
