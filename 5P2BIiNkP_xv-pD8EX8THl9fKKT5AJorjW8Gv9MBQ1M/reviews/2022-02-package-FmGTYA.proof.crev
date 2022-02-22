@@ -821,3 +821,33 @@ comment: |-
 af_eOE1XU1Y2BTas6u5y_LeV7Klw5mk1BoaO9rqJ5--NBf_WTQj4lPufzJlHMRsINJ96DKIZiNe0kYRRhauaDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-22T16:14:23.094394+09:00"
+from:
+  id-type: crev
+  id: 5P2BIiNkP_xv-pD8EX8THl9fKKT5AJorjW8Gv9MBQ1M
+  url: "https://github.com/kdy1/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: browserslist-rs
+  version: 0.8.0
+  revision: 0bcea031b7c00ccf3acee6812f2d1ac0f38b9bbc
+  digest: xTbH7Dx3J1fKRttj0Ho8LzsQYpmP9p8n_KMLHbuFCQg
+package-diff-base:
+  source: "https://crates.io"
+  name: browserslist-rs
+  version: 0.7.0
+  revision: e6256ef4083fa9e92181b191c3f68dc91b25fc9a
+  digest: uevNq48oB6pRl3uB1-pIGWwzHihwRI3s76bIcHM6t8Y
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Diff Seems innocent
+----- SIGN CREV PROOF -----
+I88UDxXcn7Ne0oL9vIrc0qatEQSDSs4EtebxDGxUkuBFE64ykJSFcsSZjje4vwF0Sqt9TMWjL-x6Ges-0BRgDQ
+----- END CREV PROOF -----
+
